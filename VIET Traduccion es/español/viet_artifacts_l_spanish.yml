@@ -2,7 +2,7 @@
  # VARIOS
 artefacto_VIET_clutter:0 "Desorden"
 artefacto_VIET_recipe:0 "Receta"
-VIET_artifact_limit_ advertencia : 0 "¡Agregar este [artefacto desordenado|E] a su inventario #X reduce#! las posibilidades de que encuentre otros [artefactos desordenados|E]"
+VIET_artifact_limit_ advertencia : 0 "¡Agregar este [clutter_artifacts|E] a su inventario #X reduce#! las posibilidades de que encuentre otros [clutter_artifacts|E]"
 
 # Artefactos especiales
 VIET_baklava_test_name:0 "Rebanada sagrada de baklava"

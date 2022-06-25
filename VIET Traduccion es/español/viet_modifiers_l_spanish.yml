@@ -583,7 +583,7 @@ VIET_horrible_handwriting_desc:0 "Dicen que puedes aprender mucho leyendo la let
 VIET_wrists_hurt:0 "Me duelen las muñecas"
 VIET_wrists_hurt_desc:0 "Alguien ha pasado demasiado tiempo en un escritorio sin hacer nada más que escribir".
 VIET_shorthand_interest:0 "Interesado en aprender taquigrafía"
-VIET_shorthand_interest_desc:0 "Este personaje ha mostrado interés en aprender técnicas avanzadas de taquigrafía. Sin embargo, su interés solo durará un tiempo antes de que dirija su atención a otra parte.\n\nPuede tomar la [decisión|E] para #V Aprender técnicas de taquigrafía#. "
+VIET_shorthand_interest_desc:0 "Este personaje ha mostrado interés en aprender técnicas avanzadas de taquigrafía. Sin embargo, su interés solo durará un tiempo antes de que dirija su atención a otra parte.\n\nPuede tomar la [decision|E] para #V Aprender técnicas de taquigrafía#. "
 VIET_currently_learning_shorthand:0 "Aprender técnicas de taquigrafía"
 VIET_currently_learning_shorthand_desc:0 "Este personaje está aprendiendo actualmente técnicas avanzadas sobre cómo escribir en taquigrafía de un escriba o erudito local."
 VIET_learned_shorthand_1:0 "Algunas habilidades avanzadas de taquigrafía"
@@ -598,7 +598,7 @@ VIET_crow_friend_germanic:0 "$VIET_crow_friend$"
 VIET_crow_friend_germanic_desc:0 "$VIET_crow_friend_desc$"
 # 1.4.6 - por favor deje este comentario aquí
 VIET_berry_good_medicine_county:0 "Buena medicina de bayas"
-VIET_berry_good_medicine_county_desc:0 "Las bayas de esta región son famosas por sus propiedades medicinales. Se venden a buenos precios y se pueden encontrar en boticarios de todas partes.\n\nEl [gobernante|E] de este [condado|E] puede tomar la [decisión|E] de #V Comprar Valiosas Bayas Medicinales#!"
+VIET_berry_good_medicine_county_desc:0 "Las bayas de esta región son famosas por sus propiedades medicinales. Se venden a buenos precios y se pueden encontrar en boticarios de todas partes.\n\nEl [ruler|E] de este [county|E] puede tomar la [decision|E] de #V Comprar Valiosas Bayas Medicinales#!"
 VIET_trinket_cave:0 "Pequeña cueva descubierta recientemente"
 VIET_trinket_cave_desc:0 "Recientemente, los lugareños se toparon con una pequeña cueva aquí. Se han encontrado allí una serie de baratijas y otros artículos menores importantes, pero por lo demás es de poco interés".
 VIET_trinket_cave_shrine:0 "Santuario de cueva pequeña"
@@ -649,11 +649,11 @@ VIET_martyr_commander_desc:0 "Un comandante de guarnición respetado y querido f
 VIET_martyr_commander_monument:0 "Monumento a un comandante martirizado"
 VIET_martyr_commander_monument_desc:0 "Recientemente se erigió un monumento en honor a un comandante de guarnición respetado y querido por muchos. El comandante fue asesinado por una banda de bandidos notorios, pero esto inspiró a las fuerzas locales a erradicar a los bandidos de una vez por todas, y en gran medida tuvo éxito".
 VIET_tomb_monument_warrior:0 "Santuario de un guerrero legendario"
-VIET_tomb_monument_warrior_desc:0 "Hay una colina en esta región que, según el folclore local, es el lugar de descanso final de un gran guerrero que derrotó a los monstruos o a una horda invasora. Recientemente se ha erigido allí un santuario para esta figura legendaria, y es actualmente es un sitio popular para muchos lugareños que desean visitarlo y presentar sus respetos.\n\n¡El [gobernante|E] de este [condado|E] puede tomar la [decisión|E] de #V visitar un túmulo funerario legendario#! "
+VIET_tomb_monument_warrior_desc:0 "Hay una colina en esta región que, según el folclore local, es el lugar de descanso final de un gran guerrero que derrotó a los monstruos o a una horda invasora. Recientemente se ha erigido allí un santuario para esta figura legendaria, y es actualmente es un sitio popular para muchos lugareños que desean visitarlo y presentar sus respetos.\n\n¡El [ruler|E] de este [county|E] puede tomar la [decision|E] de #V visitar un túmulo funerario legendario#! "
 VIET_tomb_monument_holy:0 "Santuario de un santo legendario"
-VIET_tomb_monument_holy_desc:0 "Hay una colina en esta región que, según el folclore local, es el lugar de descanso final de una persona santa que realizó grandes milagros. Recientemente se ha erigido allí un santuario para esta figura legendaria. Un santuario para esta figura legendaria se ha erigido recientemente allí, y actualmente es un sitio popular para muchos lugareños que desean visitarlo y presentar sus respetos.\n\nEl [gobernante|E] de este [condado|E] puede tomar la [decisión|E] para #V ¡Visita un túmulo funerario legendario#!"
+VIET_tomb_monument_holy_desc:0 "Hay una colina en esta región que, según el folclore local, es el lugar de descanso final de una persona santa que realizó grandes milagros. Recientemente se ha erigido allí un santuario para esta figura legendaria. Un santuario para esta figura legendaria se ha erigido recientemente allí, y actualmente es un sitio popular para muchos lugareños que desean visitarlo y presentar sus respetos.\n\nEl [ruler|E] de este [county|E] puede tomar la [decision|E] para #V ¡Visita un túmulo funerario legendario#!"
 VIET_tomb_monument_ruler:0 "Santuario de un monarca legendario"
-VIET_tomb_monument_ruler_desc:0 "Hay una colina en esta región que, según el folclore local, es el lugar de descanso final de un justo y amado monarca de hace mucho tiempo. Recientemente se ha erigido allí un santuario para esta figura legendaria. Un santuario para este legendario recientemente se erigió una figura allí, y actualmente es un sitio popular para muchos lugareños que desean visitarlo y presentar sus respetos.\n\nEl [gobernante|E] de este [condado|E] puede tomar la [decisión|E] a #V ¡Visita un túmulo funerario legendario#!"
+VIET_tomb_monument_ruler_desc:0 "Hay una colina en esta región que, según el folclore local, es el lugar de descanso final de un justo y amado monarca de hace mucho tiempo. Recientemente se ha erigido allí un santuario para esta figura legendaria. Un santuario para este legendario recientemente se erigió una figura allí, y actualmente es un sitio popular para muchos lugareños que desean visitarlo y presentar sus respetos.\n\nEl [ruler|E] de este [county|E] puede tomar la [decision|E] a #V ¡Visita un túmulo funerario legendario#!"
 VIET_benevolent_spirit:0 "Espíritu benevolente"
 VIET_benevolent_spirit_desc:0 "Se rumorea que aquí vive un espíritu poderoso pero benévolo que protege a los lugareños de los peligros mundanos y espirituales."
 VIET_maitreya_cult_repressed:0 "Reprimiendo un culto a Maitreya"
@@ -668,7 +668,7 @@ VIET_disappeared_village_desc:0 "Toda la población de un pueblo entero desapare
 VIET_perfectly_arranged_marriage:0 "Matrimonio perfectamente arreglado"
 VIET_perfectly_arranged_marriage_desc:0 "Hace poco se celebró aquí una boda entre el hijo y la hija de dos influyentes familias de plebeyos. Todo el mundo opina que estos dos encajaban a la perfección el uno para el otro, y la pareja está muy feliz. Sin embargo, lo sorprendente fue que supuestamente en la boda aparecieron varios buenos augurios y señales del cielo. ¡Ciertamente la gente aquí es bendecida!
 VIET_spirit_towns:0 "Pueblos fantasmas literales"
-VIET_spirit_towns_desc:0 "Parece que incluso los fantasmas se involucran en actividades aburridas y cotidianas como comer, conversar y jugar, o al menos eso sugieren los recientes avistamientos de fantasmas en esta región. Quién sabe si esas historias son mentiras o bromas o si son testigos oculares reales. cuentas?\n\n¡El [gobernante|E] de este [condado|E] puede tomar la [decisión|E] de #V investigar un pueblo fantasma#!"
+VIET_spirit_towns_desc:0 "Parece que incluso los fantasmas se involucran en actividades aburridas y cotidianas como comer, conversar y jugar, o al menos eso sugieren los recientes avistamientos de fantasmas en esta región. Quién sabe si esas historias son mentiras o bromas o si son testigos oculares reales. cuentas?\n\n¡El [ruler|E] de este [county|E] puede tomar la [decision|E] de #V investigar un pueblo fantasma#!"
 VIET_respected_elder_death_grandfather:0 "Bendiciones del abuelo"
 VIET_respected_elder_death_grandfather_desc:0 "Un anciano de una de las aldeas locales, muy venerado y renombrado en toda la región, falleció recientemente. Un líder comunitario inteligente y capaz, lideró a los lugareños en las buenas y en las malas durante muchos años. Algunos dicen que el reciente la prosperidad experimentada por la zona son gracias a su espíritu benévolo".
 VIET_respected_elder_death_grandmother:0 "Bendiciones de la abuela"
@@ -680,7 +680,7 @@ VIET_death_of_several_officials_desc:0 "Murieron aquí varios funcionarios local
 VIET_secretly_corrupt_official:0 "Muerte de un funcionario secretamente corrupto"
 VIET_secretly_corrupt_official_desc:0 "Durante años, un poderoso funcionario de este condado engañó a todos haciéndoles creer que era una figura benévola. Recientemente, después de su muerte, todos se enteraron de la verdad de sus depravados niveles de corrupción cuando salieron a la luz pruebas al respecto. Aún así, en al menos el área estará mucho mejor sin sus maquinaciones ahora".
 VIET_holy_hermit_passes_away:0 "Fallece el famoso ermitaño"
-VIET_holy_hermit_passes_away_desc:0 "Durante años, un famoso ermitaño vivió en las tierras salvajes de esta región, participando en prácticas espirituales mientras brindaba sabiamente a los lugareños orientación y apoyo espiritual. Ha fallecido recientemente, pero el lugar de su muerte se ha convertido en un lugar de peregrinaje menor. \n\n¡El [gobernante|E] de este [condado|E] puede tomar la [decisión|E] de #V Venerar a un Ermitaño Momificado#!"
+VIET_holy_hermit_passes_away_desc:0 "Durante años, un famoso ermitaño vivió en las tierras salvajes de esta región, participando en prácticas espirituales mientras brindaba sabiamente a los lugareños orientación y apoyo espiritual. Ha fallecido recientemente, pero el lugar de su muerte se ha convertido en un lugar de peregrinaje menor. \n\n¡El [ruler|E] de este [county|E] puede tomar la [decision|E] de #V Venerar a un Ermitaño Momificado#!"
 VIET_stone_slab_found:0 "Encontrada losa de piedra antigua"
 VIET_araragi_vampire:0 "Leyendas del exorcista asesino de demonios y su sirvienta inmortal"
 VIET_araragi_vampire_desc:0 "Recientemente, hay historias de que un asesino de demonios y exorcista que es inmune a cualquier daño o lesión vive en esta región. Según las fantásticas historias que se cuentan sobre él, obtuvo estas habilidades después de encontrarse con espíritus de otro mundo, particularmente un chica inmortal que es bastante poderosa ella misma y su sirviente que lo ayuda en sus esfuerzos".
@@ -695,7 +695,7 @@ VIET_famoso_bard_arrested_desc:0 "Este personaje arrestó a un bardo famoso por 
 VIET_haunted_ship:0 "Barco encantado en el cielo"
 VIET_haunted_ship_desc:0 "Abundan los informes de un barco embrujado que flota en el cielo. Deben ser alucinaciones y delirios colectivos, y nada más, ¿verdad?"
 VIET_flat_stone_monument:0 "Monumento de piedra antiguo"
-VIET_flat_stone_monument_desc:0 "Hace poco se descubrió aquí en la naturaleza una sola piedra plana de un tamaño considerable. Debe haber sido tallada por pueblos del pasado hace siglos, aunque algunos le atribuyen propiedades mágicas y milagrosas. Es demasiado grande para reutilizarla. , por lo que continúa sentado, observando el mundo que lo rodea por toda la eternidad.\n\n¡El [gobernante|E] de este [condado|E] puede tomar la [decisión|E] de #V Examinar un Antiguo Monumento de Piedra#! "
+VIET_flat_stone_monument_desc:0 "Hace poco se descubrió aquí en la naturaleza una sola piedra plana de un tamaño considerable. Debe haber sido tallada por pueblos del pasado hace siglos, aunque algunos le atribuyen propiedades mágicas y milagrosas. Es demasiado grande para reutilizarla. , por lo que continúa sentado, observando el mundo que lo rodea por toda la eternidad.\n\n¡El [ruler|E] de este [county|E] puede tomar la [decision|E] de #V Examinar un Antiguo Monumento de Piedra#! "
 VIET_recent_sandstorm:0 "Tormenta de arena reciente"
 VIET_sandstorm_disaster_relief:0 "Ayuda en caso de desastre proporcionada por una tormenta de arena"
 VIET_sandstorm_not_disaster_relief:0 "No proporcionó socorro en casos de desastre para una tormenta de arena"
@@ -709,7 +709,7 @@ VIET_landslide_not_disaster_relief:0 "No proporcionó socorro en casos de desast
 VIET_strong_lads:0 "Muchachos fuertes"
 VIET_strong_lads_desc:0 "Los jóvenes de esta provincia han alcanzado cierto nivel de renombre por su valentía y habilidad en la guerra."
 VIET_giant_shade_tree:0 "Árbol de sombra gigante"
-VIET_giant_shade_tree_desc:0 "Uno de los pueblos de esta provincia es famoso por su gigantesco árbol de sombra. Incluso los habitantes de los pueblos vecinos más lejanos vienen a divertirse bajo este poderoso árbol.\n\nEl [gobernante|E] de este [condado|E ] puede tomar la [decisión|E] de #V ¡Relajarse en un árbol de sombra gigante#!"
+VIET_giant_shade_tree_desc:0 "Uno de los pueblos de esta provincia es famoso por su gigantesco árbol de sombra. Incluso los habitantes de los pueblos vecinos más lejanos vienen a divertirse bajo este poderoso árbol.\n\nEl [ruler|E] de este [condado|E ] puede tomar la [decision|E] de #V ¡Relajarse en un árbol de sombra gigante#!"
 VIET_opinion_fellow_tree_lover:0 "Compañero amante de los árboles"
 VIET_opinion_tree_hater:0 "No le gustan los árboles"
 VIET_shadow_people:0 "Informes de la gente de la sombra"
@@ -784,8 +784,8 @@ VIET_rehabilitated_submerged_shrine_desc:0 "Hace poco se rehabilitó un santuari
 VIET_burnt_down_tower_renovated:0 "Torre incendiada renovada"
 VIET_burnt_down_tower_renovated_desc:0 "No hace mucho tiempo se encontró una torre abandonada y quemada en el desierto. Los líderes locales consideraron prudente restaurar la torre a su antigua gloria para que pudiera servir como un puesto de vigilancia estratégico".
 VIET_opinion_food_chat:0 "Charla agradable sobre comida"
-VIET_mercenary_scholar_in_town_desc:0 "¡Puede tomar la [decisión|E] para #V contratar al erudito mercenario#!"
-VIET_renowned_blacksmith_region_desc:0 "¡El [gobernante|E] de este [condado|E] puede tomar la [decisión|E] de #V emplear herreros de renombre para los ejércitos#!"
+VIET_mercenary_scholar_in_town_desc:0 "¡Puede tomar la [decision|E] para #V contratar al erudito mercenario#!"
+VIET_renowned_blacksmith_region_desc:0 "¡El [ruler|E] de este [county|E] puede tomar la [decision|E] de #V emplear herreros de renombre para los ejércitos#!"
 # 1.4.8 - por favor deje este comentario aquí
 VIET_avoiding_strange_creatures:0 "Evitar criaturas extrañas"
 VIET_camels_killed_by_spiders:0 "Camellos asesinados por arañas"
@@ -846,7 +846,7 @@ VIET_culling_rooks_desc:0 "Las autoridades locales animan a los habitantes de es
 VIET_rooks_crows:0 "Preferido por Grajos"
 VIET_rooks_crows_desc:0 "Dicen que los grajos (pájaros que se parecen a los cuervos) que viven aquí se llevan bien con los lugareños y les traen mucha fortuna, gracias al hecho de que un líder local tiene algún tipo de conexión profunda, supuestamente incluso de otro mundo, con ellos. ."
 VIET_reliable_donkeys:0 "Burros confiables"
-VIET_reliable_donkeys_desc:0 "Los burros criados en este condado son famosos por ser mejores que los burros de otros lugares en casi todos los sentidos.\n\nEl [gobernante|E] de este [condado|E] puede tomar la [decisión|E] para #V ¡Compra burros confiables#!"
+VIET_reliable_donkeys_desc:0 "Los burros criados en este condado son famosos por ser mejores que los burros de otros lugares en casi todos los sentidos.\n\nEl [ruler|E] de este [county|E] puede tomar la [decision|E] para #V ¡Compra burros confiables#!"
 VIET_small_herd_donkeys:0 "Recientemente compré una pequeña manada de burros"
 VIET_small_herd_donkeys_desc:0 ""¡Ji-ja! ¡Rebuzno!""
 VIET_medium_herd_donkeys:0 "Recientemente compré una manada de burros medianos"
@@ -854,7 +854,7 @@ VIET_medium_herd_donkeys_desc:0 "$VIET_small_herd_donkeys_desc$"
 VIET_large_herd_donkeys:0 "Recientemente compré una gran manada de burros"
 VIET_large_herd_donkeys_desc:0 "$VIET_small_herd_donkeys_desc$"
 VIET_dovecote_interest:0 "Interesado en construir más palomares"
-VIET_dovecote_interest_desc:0 "¡Puede tomar la [decisión|E] para #V construir más palomares#!"
+VIET_dovecote_interest_desc:0 "¡Puede tomar la [decision|E] para #V construir más palomares#!"
 VIET_opinion_dovecote_approve:0 "Está de acuerdo con la sugerencia de construir más palomares"
 VIET_opinion_dovecote_heeded:0 "Estoy de acuerdo con mi sugerencia de construir más palomares"
 VIET_opinion_dovecote_disapprove:0 "No estoy seguro de la sugerencia de construir más palomares"
@@ -867,7 +867,7 @@ VIET_built_dovecotes_large:0 "Muchos palomares nuevos"
 VIET_built_dovecotes_large_desc:0 "Este personaje ordenó recientemente la construcción de muchos palomares nuevos en su residencia. ¡Tener más palomas bajo el control es una muestra del estatus, el prestigio y el poder de uno!"
 VIET_songbird_average_fan:0 "Interés pasajero en los pájaros cantores"
 VIET_songbird_enjoyer:0 "Disfruta escuchando pájaros cantores"
-VIET_songbird_enjoyer_desc:0 "A este personaje le encanta ir a la naturaleza para admirar las maravillosas habilidades de canto de todos y cada uno de los pájaros cantores.\n\nPuede tomar la [decisión|E] para #V ¡Escuchar pájaros cantores salvajes#! para perder [estrés|E] "
+VIET_songbird_enjoyer_desc:0 "A este personaje le encanta ir a la naturaleza para admirar las maravillosas habilidades de canto de todos y cada uno de los pájaros cantores.\n\nPuede tomar la [decision|E] para #V ¡Escuchar pájaros cantores salvajes#! para perder [stress|E] "
 VIET_inspired_by_songbird_diplomacy:0 "Los pájaros cantores inspiran elocuencia en el habla"
 VIET_inspired_by_songbird_martial:0 "Los pájaros cantores inspiran coraje y audacia"
 VIET_inspired_by_songbird_stewardship:0 "Los pájaros cantores inspiran el trabajo duro"
@@ -891,7 +891,7 @@ VIET_smuggling_ring_arrested:0 "Red de contrabando arrestada"
 VIET_haunted_fortress:0 "Fortaleza abandonada embrujada"
 VIET_haunted_fortress_desc:0 "Según la leyenda local, una fortaleza abandonada en este condado fue construida hace mucho tiempo por un rey loco, que era tan despiadado y cruel como caprichoso. Se dice que el lugar todavía está embrujado por este rey y su séquito de espantosos soldados. Si bien los lugareños obviamente están nerviosos por la perspectiva del fantasma de un vengativo loco sediento de sangre que habita en la región, es probable que también asuste a los extranjeros que pasan, incluidos otros invasores. Además, a pesar de su mal estado, la fortaleza sigue siendo útil como un puesto de avanzada".
 VIET_famous_flower_meadows:0 "Famosos prados de flores"
-VIET_famous_flower_meadows_desc:0 "Los prados y campos de esta tierra son famosos en toda la región por su belleza en primavera, cuando florecen miles y miles de flores. Muchos de cerca y de lejos vienen a presenciar este deslumbrante espectáculo.\n\nEl [gobernante |E] de este [condado|E] puede tomar la [decisión|E] de #V Ver Flower Meadows en Flor#!"
+VIET_famous_flower_meadows_desc:0 "Los prados y campos de esta tierra son famosos en toda la región por su belleza en primavera, cuando florecen miles y miles de flores. Muchos de cerca y de lejos vienen a presenciar este deslumbrante espectáculo.\n\nEl [ruler|E] de este [county|E] puede tomar la [decision|E] de #V Ver Flower Meadows en Flor#!"
 # 1.5.4 - por favor deje este comentario aquí
 VIET_defended_servants_honor:0 "Honor del sirviente defendido"
 VIET_positive_mindset:0 "Mentalidad positiva"
@@ -934,6 +934,5 @@ VIET_murderer_execution:0 "Notorio asesino ejecutado recientemente"
 VIET_shy_hermit:0 "Ermitaño tímido"
 VIET_shy_hermit_desc:0 "Se rumorea que un gran hombre o mujer santo vive en estos lugares. Muchos intentan visitarlos, pero cada vez que encuentran a este ermitaño, simplemente huyen y se esconden en otro lugar. Aún así, a pesar de esto (y a pesar del hecho de que es difícil para determinar si este ermitaño existe), las historias de este ermitaño están inspirando a los lugareños a ser más virtuosos y devotos".
 # 1.6.1 - por favor deje este comentario aquí
-
 
  xxxxx:0 "xxxxx"

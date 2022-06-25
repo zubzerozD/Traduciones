@@ -7,7 +7,7 @@
  VIETmonogatari.0001.t:0 "Llega Qi Ma, el mentiroso"
  VIETmonogatari.0001.desc:0 "Escuché que un viajero muy inusual ha llegado a la región. Se le conoce como Qi Ma el Mentiroso, y muchos afirman que posee una sabiduría incomparable, incluso si algunos de sus consejos a menudo se refieren a temas extraños o tiene poco sentido a veces. Curiosamente, aunque muchos afirman que es inmensamente famoso, nunca había oído hablar de él antes.\n\nAún así, dado que es conocido por sus ideas, quizás debería visitarlo en algún momento. sabe qué temas intelectuales profundos podríamos discutir? Incluso si es un loco, tal vez podría aprender una o dos cosas. Por otra parte, hay quienes dicen que no debería asociarme con aquellos que se refieren a cosas extrañas.
  VIETmonogatari.0001.a:0 "Lo pensaré".
- VIETmonogatari.0001.tooltip:0 "Mientras tengas el [character_modifier|E], ¡#V Qi Ma the Liar está cerca#!, ¡tendrás acceso a una [decisión|E] para #V reunirte con#! [ qi_ma_the_liar|E]. Si desea buscar su consejo, debe hacerlo tan pronto como pueda: no estará en la ciudad para siempre y, más pronto que tarde, viajará a otro lugar".
+ VIETmonogatari.0001.tooltip:0 "Mientras tengas el [character_modifier|E], ¡#V Qi Ma the Liar está cerca#!, ¡tendrás acceso a una [decision|E] para #V reunirte con#! [ qi_ma_the_liar|E]. Si desea buscar su consejo, debe hacerlo tan pronto como pueda: no estará en la ciudad para siempre y, más pronto que tarde, viajará a otro lugar".
  VIETmonogatari.0002.t:0 "xxxxx"
  VIETmonogatari.0002.desc:0 "xxxxx"
  VIETmonogatari.0002.a:0 "xxxxx"

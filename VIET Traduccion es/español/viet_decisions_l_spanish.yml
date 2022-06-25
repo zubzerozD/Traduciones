@@ -70,8 +70,8 @@ VIET_decision_strange_trails_confirm:0 "Busco respuestas, pero ni siquiera sé l
 VIET_decision_learn_shorthand_techniques:0 "Aprende técnicas de taquigrafía"
 VIET_decision_learn_shorthand_techniques_tooltip:0 "He oído que hay algunos escribas o eruditos cerca que pueden enseñarme taquigrafía".
 VIET_decision_learn_shorthand_techniques_desc:0 "Escuché que hay algunos escribas o eruditos cerca que pueden enseñarme técnicas avanzadas de taquigrafía, para que pueda escribir más rápido. Es mejor que me comprometa a aprender más sobre esto mientras todavía tenga algo de interés".
-VIET_decision_learn_shorthand_techniques_effect_tooltip:0 "¡Después de varios meses de estudio, obtendrás una especie de #P positivo#! [character_modifier|E] aumentando algunas de tus [habilidades|E]"
-VIET_decision_learn_shorthand_techniques_effect_tooltip_2:0 "La potencia del [character_modifier|E] depende de tus [habilidades|E], [rasgos|E] y otros factores"
+VIET_decision_learn_shorthand_techniques_effect_tooltip:0 "¡Después de varios meses de estudio, obtendrás una especie de #P positivo#! [character_modifier|E] aumentando algunas de tus [skills|E]"
+VIET_decision_learn_shorthand_techniques_effect_tooltip_2:0 "La potencia del [character_modifier|E] depende de tus [skills|E], [rasgos|E] y otros factores"
 VIET_decision_learn_shorthand_techniques_confirm:0 "Creo que he encontrado un escriba que está dispuesto a enseñar".
 VIET_decision_learn_shorthand_techniques_context_tooltip:0 "#emphasis Contexto histórico:# ! La taquigrafía es cualquier método abreviado de escritura rápida. Estos métodos se desarrollaron históricamente en muchas culturas alfabetizadas. Eran, y siguen siendo, particularmente útiles para ciertas profesiones como oficinistas y escribas, donde se necesita información para ser registrado de manera rápida y eficiente".
 VIET_decision_buy_valuable_medicinal_berries:0 "Comprar bayas medicinales valiosas"
@@ -79,12 +79,12 @@ VIET_decision_buy_valuable_medicinal_berries_tooltip:0 "Hay bayas que tienen sup
 VIET_decision_buy_valuable_medicinal_berries_desc:0 "Parece que hay partes de mi reino donde se dice que las bayas poseen varias propiedades medicinales. ¡Debería comprarme algunas para mí! "
 VIET_decision_buy_valuable_medicinal_berries_effect_tooltip:0 "Tú eliges cuántas bayas comprar, determinando cuánto durará [GetModifier('VIET_berry_good_medicine' ).GetNameWithTooltip ] [character_modifier|E] #débil (coste mínimo: @gold_icon! 15)#".
 VIET_decision_buy_valuable_medicinal_berries_confirm:0 "Baya buena".
-VIET_decision_buy_valuable_medicinal_berries_req:0 "Cualquier [condado|E] en su [dominio|E] tiene el [GetModifier('VIET_berry_good_medicine_county' ).GetNameWithTooltip ] [county_modifier|E]"
+VIET_decision_buy_valuable_medicinal_berries_req:0 "Cualquier [county|E] en su [domain|E] tiene el [GetModifier('VIET_berry_good_medicine_county' ).GetNameWithTooltip ] [county_modifier|E]"
 VIET_decision_buy_valuable_medicinal_berries_context_tooltip:0 "#emphasis Contexto histórico:# ! Las bayas han sido parte de muchas culturas desde el principio de los tiempos y se han utilizado como alimento, medicina, fuente de tintes y más."
 VIET_decision_employ_renowned_blacksmiths:0 "Emplear herreros de renombre para los ejércitos"
 VIET_decision_employ_renowned_blacksmiths_tooltip:0 "Mis soldados siempre podrían usar mejores armas y armaduras".
 VIET_decision_employ_renowned_blacksmiths_desc:0 "Hay una parte de mi reino que es famosa por sus herreros. Tal vez pueda utilizar algunos de ellos en mi ejército, para que puedan crear, reparar y mantener las armas y armaduras de mis tropas."
-VIET_decision_employ_renowned_blacksmiths_req:0 "Cualquier [condado|E] en su [dominio|E] tiene el [GetModifier('VIET_renown_blacksmith_region' ).GetNameWithTooltip ] [county_modifier|E]"
+VIET_decision_employ_renowned_blacksmiths_req:0 "Cualquier [county|E] en su [domain|E] tiene el [GetModifier('VIET_renown_blacksmith_region' ).GetNameWithTooltip ] [county_modifier|E]"
 VIET_decision_employ_renowned_blacksmiths_effect_tooltip:0 "Usted elegirá en qué se centrarán los herreros que emplee:"
 VIET_decision_employ_renowned_ blacksmiths.armor :0 "Armadura"
 VIET_decision_employ_renowned_ blacksmiths.weapons :0 "Armas"
@@ -94,43 +94,43 @@ VIET_decision_employ_renowned_blacksmiths_context_tooltip:0 "#emphasis Contexto 
 VIET_decision_visit_legendary_burial_mound:0 "Visita un túmulo funerario legendario"
 VIET_decision_visit_legendary_burial_mound_tooltip:0 "Debería ir a uno de estos lugares legendarios al menos una vez en mi vida".
 VIET_decision_visit_legendary_burial_mound_desc:0 "Recientemente dediqué un santuario a una figura legendaria que se dice que está enterrada bajo un montículo o una colina que se encuentra específicamente en una parte de mi dominio. Quizás debería visitar el santuario para presentar mis respetos".
-VIET_decision_visit_legendary_burial_mound_req:0 "Cualquier [condado|E] en su [dominio|E] tiene el [GetModifier('VIET_tomb_monument_warrior' ).GetNameWithTooltip ], [GetModifier('VIET_tomb_monument_holy').GetNameWithTooltip] o [GetModifier('VIET_tomb_monument_ruler'). GetNameWithTooltip] [county_modifier|E]"
+VIET_decision_visit_legendary_burial_mound_req:0 "Cualquier [county|E] en su [domain|E] tiene el [GetModifier('VIET_tomb_monument_warrior' ).GetNameWithTooltip ], [GetModifier('VIET_tomb_monument_holy').GetNameWithTooltip] o [GetModifier('VIET_tomb_monument_ruler'). GetNameWithTooltip] [county_modifier|E]"
 VIET_decision_visit_legendary_burial_mound_effect_tooltip:0 "¡Estarás inspirado durante tu visita, lo que te otorgará una #P positiva#! [character_modifier|E], cuyos beneficios dependerán de quién esté enterrado allí"
 VIET_decision_visit_legendary_burial_mound_confirm:0 "Vamos a este lugar".
 VIET_decision_visit_legendary_burial_mound_context_tooltip:0 "#emphasis Contexto histórico:# ! Los túmulos o túmulos (singular #italic tumulus#!) se pueden encontrar en prácticamente todas las partes del mundo, y algunos datan de hace miles de años. Como tal, a menudo hay muchos locales leyendas y mitos asociados con estos sitios".
 VIET_decision_investigate_a_ghost_town:0 "Investigar un pueblo fantasma"
 VIET_decision_investigate_a_ghost_town_tooltip:0 "¡Quiero ver algunos fantasmas!"
 VIET_decision_investigate_a_ghost_town_desc:0 "Hay una zona en mis dominios donde abundan las historias de fantasmas. Se dice que algunos de los asentamientos de esta zona albergan los llamados "pueblos fantasmas", donde los lugareños afirman haber visto espíritus moviéndose. I Me he sentido un poco valiente últimamente y quiero llegar al fondo de esto, ¿realmente hay esos fantasmas por ahí?"
-VIET_decision_investigate_a_ghost_town_req:0 "Cualquier [condado|E] en su [dominio|E] tiene el [GetModifier('VIET_spirit_towns' ).GetNameWithTooltip ] [county_modifier|E]"
+VIET_decision_investigate_a_ghost_town_req:0 "Cualquier [county|E] en su [domain|E] tiene el [GetModifier('VIET_spirit_towns' ).GetNameWithTooltip ] [county_modifier|E]"
 VIET_decision_investigate_a_ghost_town_effect_tooltip_1:0 "Viajarás a uno de estos llamados pueblos fantasmas y, con suerte, encontrarás algunos fantasmas".
-VIET_decision_investigate_a_ghost_town_effect_tooltip_2:0 "#N ¡Obtendrás una cantidad notable de [estrés|E] porque eres [GetTrait('cobarde' ).GetName ( GetPlayer )]#!"
+VIET_decision_investigate_a_ghost_town_effect_tooltip_2:0 "#N ¡Obtendrás una cantidad notable de [stress|E] porque eres [GetTrait('cobarde' ).GetName ( GetPlayer )]#!"
 VIET_decision_investigate_a_ghost_town_confirm:0 "Estoy seguro de que les echaré un vistazo".
 VIET_decision_investigate_a_ghost_town_context_tooltip:0 "#emphasis Contexto histórico:# ! Los espíritus de los muertos han aparecido en el folclore y la mitología de prácticamente todas las culturas del mundo desde tiempos inmemoriales. Del mismo modo, todas las culturas tenían sus leyendas sobre lugares donde los fantasmas se congregaban y cuidaban de su negocio sobrenatural".
 VIET_decision_venerate_a_mummified_hermit:0 "Venerar a un ermitaño momificado"
 VIET_decision_venerate_a_mummified_hermit_tooltip:0 "Deseo presentar mis respetos"
 VIET_decision_venerate_a_mummified_hermit_desc:0 "No hace mucho tiempo, un famoso ermitaño falleció mientras meditaba en uno de los territorios que gobierno. Su cadáver, milagrosamente, todavía está de pie y de alguna manera resiste cualquier tipo de descomposición, un signo de la fuerza espiritual de este hombre, tal vez. El lugar donde falleció se ha convertido en un lugar de peregrinación menor que tengo la intención de visitar".
-VIET_decision_venerate_a_mummified_hermit_req:0 "Cualquier [condado|E] en su [dominio|E] tiene el [GetModifier('VIET_holy_hermit_passes_away' ).GetNameWithTooltip ] [county_modifier|E]"
-VIET_decision_venerate_a_mummified_hermit_effect_tooltip:0 "Visitarás para presentar tus respetos al ermitaño momificado, obteniendo [piedad|E] y otras bendiciones"
+VIET_decision_venerate_a_mummified_hermit_req:0 "Cualquier [county|E] en su [domain|E] tiene el [GetModifier('VIET_holy_hermit_passes_away' ).GetNameWithTooltip ] [county_modifier|E]"
+VIET_decision_venerate_a_mummified_hermit_effect_tooltip:0 "Visitarás para presentar tus respetos al ermitaño momificado, obteniendo [piety|E] y otras bendiciones"
 VIET_decision_venerate_a_mummified_hermit_confirm:0 "Vamos allí".
 VIET_decision_venerate_a_mummified_hermit_context_tooltip:0 "#emphasis Contexto histórico:# ! Durante siglos, ha habido informes de monjes y monjas budistas que murieron en medio de la meditación, y cuyos cuerpos, supuestamente, fueron momificados "naturalmente" y resistentes a la descomposición. Estos eran ( y son), como era de esperar, sitios budistas de devoción y veneración".
 VIET_decision_relax_at_a_giant_shade_tree:0 "Relajarse en un árbol de sombra gigante"
 VIET_decision_relax_at_a_giant_shade_tree_tooltip:0 "El árbol debe ser muy grande"
 VIET_decision_relax_at_a_giant_shade_tree_desc:0 "En mis territorios, hay un árbol de sombra muy conocido en uno de los pueblos. Creo que es hora de visitarlo y ver si su reputación es bien merecida".
-VIET_decision_relax_at_a_giant_shade_tree_req:0 "Cualquier [condado|E] en su [dominio|E] tiene el [GetModifier('VIET_giant_shade_tree' ).GetNameWithTooltip ] [county_modifier|E]"
-VIET_decision_relax_at_a_giant_shade_tree_effect_tooltip:0 "Viajarás a un famoso árbol de sombra en tu dominio para relajarte y perder [estrés|E]"
+VIET_decision_relax_at_a_giant_shade_tree_req:0 "Cualquier [county|E] en su [domain|E] tiene el [GetModifier('VIET_giant_shade_tree' ).GetNameWithTooltip ] [county_modifier|E]"
+VIET_decision_relax_at_a_giant_shade_tree_effect_tooltip:0 "Viajarás a un famoso árbol de sombra en tu dominio para relajarte y perder [stress|E]"
 VIET_decision_relax_at_a_giant_shade_tree_confirm:0 "¡No veo la hora de verlo!"
 VIET_decision_relax_at_a_giant_shade_tree_context_tooltip:0 "#emphasis Contexto histórico:# ! Los árboles de sombra son árboles grandes que se plantaron con el propósito de brindar sombra bajo su dosel y copa, o que crecieron en un lugar donde se convirtió en algo así para las personas que viven cerca."
 VIET_decision_examine_ancient_stone_monument:0 "Examinar el antiguo monumento de piedra"
 VIET_decision_examine_ancient_stone_monument_tooltip:0 "¿Qué secretos podrían esconder?"
 VIET_decision_examine_ancient_stone_monument_desc:0 "Los antiguos monumentos de piedra pueden costar diez centavos la docena para algunos eruditos, pero hay uno en particular que se descubrió recientemente y que me ha intrigado. Tengo la intención de visitarlo y simplemente admirarlo e intentar comprenderlo mejor."
-VIET_decision_examine_ancient_stone_monument_req:0 "Cualquier [condado|E] en su [dominio|E] tiene el [GetModifier('VIET_flat_stone_monument' ).GetNameWithTooltip ] [county_modifier|E]"
-VIET_decision_examine_ancient_stone_monument_effect_tooltip:0 "Viajarás y examinarás un antiguo monumento de piedra en tu dominio para perder [estrés|E] y ganar [prestigio|E] y [piedad|E]"
+VIET_decision_examine_ancient_stone_monument_req:0 "Cualquier [county|E] en su [domain|E] tiene el [GetModifier('VIET_flat_stone_monument' ).GetNameWithTooltip ] [county_modifier|E]"
+VIET_decision_examine_ancient_stone_monument_effect_tooltip:0 "Viajarás y examinarás un antiguo monumento de piedra en tu dominio para perder [stress|E] y ganar [prestigio|E] y [piety|E]"
 VIET_decision_examine_ancient_stone_monument_confirm:0 "Preparémonos".
 VIET_decision_examine_ancient_stone_monument_context_tooltip:0 "#emphasis Contexto histórico:# ! Los monumentos prehistóricos de piedra se pueden encontrar en muchos lugares del mundo. Estos monolitos, cuyo propósito a menudo es incierto o al menos cuestionado, inspiraron muchas leyendas y mitos para las culturas posteriores que los descubrieron."
 VIET_decision_purchase_dependable_donkeys:0 "Comprar burros confiables"
 VIET_decision_purchase_dependable_donkeys_tooltip:0 "Me vendrían bien más burros... "
 VIET_decision_purchase_dependable_donkeys_desc:0 "Los burros son una parte a menudo subestimada de nuestra comunidad. Una parte de mi reino es conocida por tener burros muy confiables y capaces. Tener algunos podría ser útil, ya que podrían tener una variedad de aplicaciones para mis soldados o mis sirvientes en hogar."
-VIET_decision_purchase_dependable_donkeys_req:0 "Cualquier [condado|E] en su [dominio|E] tiene el [GetModifier('VIET_reliable_donkeys' ).GetNameWithTooltip ] [county_modifier|E]"
+VIET_decision_purchase_dependable_donkeys_req:0 "Cualquier [county|E] en su [domain|E] tiene el [GetModifier('VIET_reliable_donkeys' ).GetNameWithTooltip ] [county_modifier|E]"
 VIET_decision_purchase_dependable_donkeys_effect_tooltip:0 "Usted elegirá cuántos burros desea comprar"
 VIET_decision_purchase_dependable_donkeys_effect_tooltip_small:0 "¡#coste débil @gold_icon! ¡30#!"
 VIET_decision_purchase_dependable_donkeys_effect_tooltip_medium:0 "¡#Costo débil @gold_icon! ¡60#!"
@@ -149,15 +149,15 @@ VIET_decision_add_more_dovecotes_context_tooltip:0 "$VIETmisc.2074.info$"
 VIET_decision_listen_to_wild_songbirds:0 "Escucha pájaros cantores salvajes"
 VIET_decision_listen_to_wild_songbirds_tooltip:0 "Sus cantos son sublimes".
 VIET_decision_listen_to_wild_songbirds_desc:0 "Escuché que hay un lugar en el desierto cercano donde a menudo se pueden encontrar pájaros cantores salvajes. Como alguien a quien le gusta escuchar cantar a estas hermosas criaturas, debería visitar ese lugar pronto".
-VIET_decision_listen_to_wild_songbirds_effect_tooltip:0 "Perderás algo de [estrés|E] y tal vez incluso te inspires y obtengas un [modificador_de_personaje|E]"
+VIET_decision_listen_to_wild_songbirds_effect_tooltip:0 "Perderás algo de [stress|E] y tal vez incluso te inspires y obtengas un [character_modifier|E]"
 VIET_decision_listen_to_wild_songbirds_confirm:0 "Necesito tiempo libre".
 VIET_decision_listen_to_wild_songbirds_context_tooltip:0 "#énfasis Contexto biológico:# ! El suborden de aves encaramadas #italic Passeri#! se conoce como pájaros cantores, coloquialmente hablando. Compuestas por más de 5000 especies, se encuentran en todo el mundo y son famosas por sus diversas y elaboradas cantos de pájaros, que han sido admirados por los humanos en muchas culturas y épocas diferentes".
 VIET_decision_view_flower_meadows_in_bloom:0 "Ver prados de flores en flor"
 VIET_decision_view_flower_meadows_in_bloom_tooltip:0 "Una expresión pura de la majestuosidad de la naturaleza"
 VIET_decision_view_flower_meadows_in_bloom_desc:0 "Hay una parte de mi reino que es famosa por la belleza de sus prados y campos en primavera, cuando las flores están en plena floración. ¿Por qué no viajo allí uno de estos días para presenciar tanta belleza para ¿mí mismo?"
-VIET_decision_view_flower_meadows_in_bloom_effect_tooltip:0 "Perderás algo de [estrés|E] y también podrías ganar una cantidad aleatoria de [piedad|E]"
+VIET_decision_view_flower_meadows_in_bloom_effect_tooltip:0 "Perderás algo de [stress|E] y también podrías ganar una cantidad aleatoria de [piety|E]"
 VIET_decision_view_flower_meadows_in_bloom_req_tooltip:0 "El mes es marzo, abril o mayo"
-VIET_decision_view_flower_meadows_in_bloom_req:0 "Cualquier [condado|E] en su [dominio|E] tiene el [GetModifier('VIET_reliable_donkeys' ).GetNameWithTooltip ] [county_modifier|E]"
+VIET_decision_view_flower_meadows_in_bloom_req:0 "Cualquier [county|E] en su [domain|E] tiene el [GetModifier('VIET_reliable_donkeys' ).GetNameWithTooltip ] [county_modifier|E]"
 VIET_decision_view_flower_meadows_in_bloom_confirm:0 "Haz los preparativos para ir".
  
  
