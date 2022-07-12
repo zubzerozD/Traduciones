@@ -200,147 +200,146 @@
  VIETmisc.2049.a.tooltip:0 "No quieres tener nada que ver con estas criaturas - tienes que mantener tu #P buena reputación#! después de todo. Tal vez acaben por marcharse antes si no actuamos #N negativamente#!."
  VIETmisc.2049.b.tooltip:0 "Seguramente, con su inteligencia, estos cuervos sean animales razonables. Algunos ven estos actos de buena voluntad hacia ellos como #N sospechosos#!, pero tal vez los cuervos #P aprecien#! este amable gesto."
  VIETmisc.2050.t:0 "¿Adiós para siempre?"
-VIETmisc.2050.desc:0 "En el transcurso de las próximas semanas, varios de mis sirvientes y yo empuñamos antorchas y otras armas para atacar a los cuervos cada vez que aparecen. Nuestra intención no es necesariamente matarlos, ya que sabemos que simplemente se irán volando. En cambio, mi esperanza es que podamos asustarlos hasta que aprendan a no interferir en mi negocio.\n\nY luego, hoy, me di cuenta.... No han regresado.\n\nPor el la semana pasada, no había visto ningún cuervo cerca de mi residencia, o cerca de mí cuando viajo a algún lugar. ¡Esto tiene que ser una buena señal!"
-VIETmisc.2050.a:0 "¿Parece que no volverán nunca más?"
-VIETmisc.2051.t:0 "El regreso del asesinato"
-VIETmisc.2051.desc:0 "Mis esperanzas acerca de los cuervos se han desvanecido.\n\nDespués de varias semanas de paz, regresaron. Con venganza.\n\nHay muchos, muchos más cuervos ahora, aparentemente por cientos, que vengo donde quiera que esté, ya sea en mi residencia o en otro lugar, en muchos días. Algunos días simplemente graznan amenazadoramente, otros días vuelan y atacan a las personas al azar o incluso a mí. Incluso hay momentos en los que arrojan pequeñas piedras y hierba, ¡o incluso su estiércol por todas partes!\n\nLos [ROOT.Char.Custom('DefaultPriestTitlePlural')] insisten en que rece a [ROOT.Char.GetFaith.HighGodName] para que me libere de estos demonios, pero no hay duda de que tengo incurrido en su ira!"
-VIETmisc.2051.a:0 "¿Por qué yo?"
-VIETmisc.2052.t:0 "Alimentación"
-VIETmisc.2052.desc:0 "Después de consultar con algunos eruditos muy versados en animales, decidí intentar alimentar a los cuervos. Mis sirvientes recolectan algunas bolsas llenas de semillas, nueces y restos de comida de comidas sin terminar. \n\nUn día, cuando los cuervos pasaron, posados en un árbol no muy lejos de mi habitación, recogí las bolsas y salí a un pequeño trozo de tierra frente a ellos. Allí, silbé para llamar su atención antes de alcanzarlos. en la bolsa y tirando la comida al suelo. Los cuervos y yo nos miramos torpemente, antes de irme para dejarlos en paz; unos minutos más tarde, desde mi habitación, vi a algunos descender en picada para comer la comida. n\nEsto se prolongó durante varias semanas más, y me he dado cuenta... de hecho, se siente bien".
-VIETmisc.2052.a:0 "¡Esperemos que esto aplaque a estos cuervos!"
-VIETmisc.2052.b:0 "Estoy pensando en hacer aún más por ellos".
-VIETmisc.2052.tooltip.a:0 "Sigue alimentando a los cuervos. Con suerte, esto los convencerá de que te dejen en paz".
-VIETmisc.2052.tooltip.b:0 "Los cuervos no son tan malos. Tal vez puedas encontrar una manera de ayudarlos aún más. ¡Esto aumentará la probabilidad de que los cuervos te vean #P positivamente#!".
-VIETmisc.2053.t:0 "Un jardín para cuervos"
-VIETmisc.2053.desc:0 "Algunos de mis cortesanos debieron pensar que estaba loco, pero ordené a mis sirvientes que construyeran una pequeña fuente fuera de mi residencia, y colocaran cerca de ella unos cuencos o recipientes donde dejaríamos algunas semillas, frutos secos y comida sobrante todos los días. No solo nos desharemos de la comida sobrante, sino que sería una buena manera de ayudar a los cuervos si lo que han querido todo este tiempo era solo un poco de alimento.\n\nMuy pronto, se acabó En las próximas semanas, noté que más y más cuervos pasaban por este pequeño jardín que hice. Ahora salgo a veces para saludarlos y darles de comer personalmente".
-VIETmisc.2053.a:0 "Algunos me cuestionan, pero estos cuervos parecen amistosos."
-VIETmisc.2053.tooltip:0 "Ahora tiene acceso a una [decisión|E] para #V ¡Alimentar a los cuervos#!, que se puede hacer de vez en cuando para perder el estrés."
-VIETmisc.2054.t:0 "¿Se fue?"
-VIETmisc.2054.desc:0 "Me doy cuenta de que los cuervos ya no regresan a mi residencia. Es como si un día decidieran no molestarme más. Quizás mi ofrecimiento de comida fue lo que los convenció de dejarme en paz. Quizás no. Quizá nunca se sepa la verdad".
-VIETmisc.2054.a:0 "¿Bien está lo que bien acaba?"
-VIETmisc.2055.t:0 "¡Cuervos!"
-VIETmisc.2055.desc:0 "Los cuervos no dejaron de venir después de que comencé a alimentarlos. En todo caso, creo que vinieron más. Y hay aún más en la historia.\n\nLos cuervos no solo me reconocen a mí, sino pero el sonido de mi voz, especialmente si silbo. Ayer, estaba hospedando a un viajero extranjero, que estaba aburrido y zumbando sin parar. Silbé por aburrimiento por instinto, y en minutos, apareció toda una matanza de cuervos. n\nLo más extraño es que ni siquiera parecían graznar por comida como solían hacerlo. Caminaban arrastrando los pies, o se posaban en los árboles afuera, y todos miraban al viajero, que parecía muy incómodo, era como ¡Si pensaran que quería que me protegieran y se aseguraran de que este viajero no estuviera causando problemas!"
-VIETmisc.2055.a:0 "¡Ahora hay rumores en la corte de que poseo poderes temibles!"
-VIETmisc.2055.tooltip:0 "Ahora tiene acceso a una [decisión|E] para #V ¡Alimentar a los cuervos#!, que se puede hacer de vez en cuando para perder el estrés."
-VIETmisc.2055.toast:0 "¡Tu amistad con los cuervos ahora es materia de leyenda!"
-VIETmisc.2056.t:0 "Salvador improbable"
-VIETmisc.2056.desc:0 "Un día viajaba por el desierto cuando una banda de salteadores de caminos nos tendió una emboscada a mí y a mis guardias, exigiendo que pagara o de lo contrario atacarían. Mientras nos preparábamos para pelear, silbé nerviosamente.\n \nUnos segundos después, se escuchó una gran conmoción en el cielo. Mis guardias y yo miramos conmocionados cuando lo que deben haber sido cien cuervos aparecieron de la nada y se abalanzaron para hostigar a los bandidos. Todos huyeron aterrorizados, gritando alrededor cómo era un hechicero con control sobre los elementos.\n\nEstoy bastante seguro de que no soy ese tipo de hechicero, pero después de que los bandidos se fueron, me aseguré de instruir a mis guardias para que dejaran algunos de los restos de comida en el suelo. al costado del camino como muestra de nuestro agradecimiento por la ayuda de los cuervos".
-VIETmisc.2056.a:0 "¡Uno no ve algo así todos los días!"
-VIETmisc.2057.t:0 "Un pequeño regalo"
-VIETmisc.2057.desc:0 "Estaba caminando afuera cuando vi algunos cuervos merodeando. Habiéndome acostumbrado a ellos, reconocí a algunos como algunos de los habituales que me visitaban de vez en cuando.\n\ n "¿Están aquí por comida?", les pregunté distraídamente.\n\nUnos momentos después, fueron a dejar algo a mis pies, antes de salir volando.\n\nDe vez en cuando, a veces me dejan regalos como este. Tal vez sea un gesto para reconocer nuestra extraña amistad. De todos modos, me agacho y miro lo que me presentaron esta vez: "
-VIETmisc.2057.a:0 "Algunas monedas de oro"
-VIETmisc.2057.b:0 "Varias pequeñas joyas"
-VIETmisc.2057.c:0 "Trozos de pergamino"
-VIETmisc.2057.d:0 "Algunas rocas con formas bonitas"
-VIETmisc.2057.e:0 "Hierbas y pequeñas hierbas"
-VIETmisc.2058.t:0 "Alimentando a los cuervos"
-VIETmisc.2058.desc:0 "Me siento junto a los árboles y silbo por unos momentos. Antes de que me dé cuenta, varios cuervos se abalanzan sobre mí. Caminan alrededor y me miran a la cara. La gente ignorante asumiría que están juzgándome o maldiciéndome. Sé que estos cuervos en realidad están felices de verme; hoy en día, a veces ni siquiera graznan para exigir comida, y simplemente disfrutamos de la presencia del otro. Mis sirvientes y yo hemos dado un algunos nombres.\n\nDe todos modos, saco algunos restos de comida y empiezo a alimentar a los cuervos".
-VIETmisc.2058.a:0 "¡Es bueno verlos de nuevo, amigos míos!"
-VIETmisc.2059.t:0 "xxxxx"
-VIETmisc.2059.desc:0 "xxxxx"
-VIETmisc.2059.a:0 "xxxxx"
-VIETmisc.2060.t:0 "xxxxx"
-VIETmisc.2060.desc:0 "xxxxx"
-VIETmisc.2060.a:0 "xxxxx"
-# 1.4.4 - por favor deje este comentario aquí
-# 1.4.5 - por favor deje este comentario aquí
-VIETmisc.2061.t:0 "Escribir de la manera correcta"
-VIETmisc.2061.desc:0 "Recientemente escuché que hay varias técnicas para ayudar a escribir más rápido, como el uso de abreviaturas o símbolos modificados para representar palabras. Tal vez tomarse el tiempo para aprender esto podría ser útil... tal vez tal vez no. Si bien todavía estoy fascinado con este tema, tal vez pueda contactar a un erudito local o escriba que pueda enseñarme sobre estos asuntos".
-VIETmisc.2061.a:0 "Suponiendo que tenga tiempo, por supuesto".
-VIETmisc.2061.tooltip:0 "Mientras tengas el [GetModifier('VIET_shorthand_interest').GetNameWithTooltip] [character_modifier|E], tendrás acceso a una [decisión|E] para hacer precisamente eso. Solo ten cuidado , sin embargo, perderá interés en hacerlo con el tiempo; una vez que expire el modificador, la [decisión|E] ya no estará disponible".
-VIETmisc.2062.t:0 "Escribir de la manera correcta"
-VIETmisc.2062.desc:0 "Durante varios meses, he estudiado varias técnicas de taquigrafía con un escriba local que se dice que es un maestro en este arte. He aprendido varias formas de abreviar mis palabras, o ciertas formas de escribir. palabras más rápidamente".
-VIETmisc.2062.desc.result_meh:0 "\n\nDespués de pasar todo este tiempo aprendiendo, ahora puedo decir que aunque no soy el mejor en taquigrafía, soy algo capaz en el uso de taquigrafía. No he mejorado la velocidad de mi escritura considerablemente, pero aún es mejor que antes, por lo que todavía es un conocimiento útil".
-VIETmisc.2062.desc.result_good:0 "\n\nEl escriba dice que está impresionado con mi capacidad para comprender sus lecciones. Ahora puedo escribir mucho más rápido que antes, garabateando oraciones enteras en un abrir y cerrar de ojos. Esto debería ayudar significativamente cuando se trata de varios aspectos de mi carga de trabajo diaria, ¡así que definitivamente valió la pena!"
-VIETmisc.2062.a:0 "¡Mi escritura es correcta!"
-# 1.4.6 - por favor deje este comentario aquí
-VIETmisc.2063.t:0 "Baya buena medicina"
-VIETmisc.2063.desc:0 "He enviado a mis sirvientes a comprar algunas de las renombradas bayas de [condado.GetNameNoTier]. Mi médico, [physician.GetTitledFirstName], puede usar estas bayas medicinales para una variedad de propósitos, y yo Puede beber varios tés de hierbas hechos con estas bayas como tónico para la salud. Ahora, ¿cuántas bayas les pedí a mis sirvientes que compraran de nuevo?"
-VIETmisc.2063.a:0 "Una pequeña cantidad, no demasiada pero suficiente"
-VIETmisc.2063.b:0 "Una cantidad media debería ser más que suficiente"
-VIETmisc.2063.c:0 "Una gran cantidad para que me dure mucho tiempo"
-VIETmisc.2064.t:0 "Habilidades de herrero"
-VIETmisc.2064.desc:0 "Debido a que [county.GetNameNoTier] es conocido por sus renombrados herreros, de quienes se dice que son algunos de los mejores en su oficio en el mundo, he decidido que sería una buena idea reclutar algunos para servir a mis ejércitos. Sus habilidades en la fabricación, reparación y mantenimiento de armas y armaduras deberían ser de gran utilidad para mí. Sin embargo, debo determinar qué tipo de especialistas quiero".
-VIETmisc.2064.a:0 "Talentos armeros para que mis tropas tengan la protección adecuada."
-VIETmisc.2064.b:0 "Los expertos armeros de mis fuerzas pueden luchar bien"
-VIETmisc.2064.c:0 "Aquellos expertos en la elaboración de herramientas y suministros para apoyar mis campañas"
-VIETmisc.2065.t:0 "Visita al santuario funerario"
-VIETmisc.2065.desc:0 "He decidido visitar el santuario en la colina en [county.GetNameNoTier] donde está enterrada una supuesta figura legendaria. El viaje por el campo fue agradable y, finalmente, encontramos el camino a nuestro destino."
-VIETmisc.2065.desc.warrior:0 "\n\nSegún el folclore de aquí, el guerrero enterrado bajo este montículo derrotó a un monstruo terrible hace muchas generaciones, liberando a la gente de la ira y la furia de la bestia demoníaca. O... al menos eso es lo que Me dijeron algunos de los lugareños. Otros dijeron que él solo derrotó a un ejército de invasores extranjeros merodeadores. De cualquier manera, las historias terminan con su muerte heroica ".
-VIETmisc.2065.desc.holy:0 "\n\nSegún la leyenda de aquí, hay un hombre o una mujer santos enterrados bajo este montículo, quizás un [ROOT.Char.Custom('DefaultPriestTitle')] de algún tipo, que vivió aquí hace muchos siglos. Esta persona santa fue bendecida por [ROOT.Char.GetFaith.HighGodName] y podía realizar muchas obras milagrosas, como curar a los enfermos incurables".
-VIETmisc.2065.desc.monarch:0 "\n\nSegún el folclore de aquí, un gran monarca está enterrado bajo este montículo. Este monarca era un gobernante justo, valiente, trabajador y moralmente recto, y en gran medida el perfecto imagen de lo que debe ser un gobernante. Bajo su liderazgo, la tierra prosperó y estaba en paz, y la gente era feliz".
-VIETmisc.2065.a:0 "¡Qué gloriosa historia tiene [condado.GetNameNoTier]!"
-VIETmisc.2066.t:0 "Caza de fantasmas"
-VIETmisc.2066.desc:0 "Desde hace mucho tiempo, han circulado historias sobre supuestos fantasmas que aparecían en cantidades masivas en algunos asentamientos en [county.GetNameNoTier]. Tenía curiosidad y quería ver si podía echar un vistazo. de tales fenómenos sobrenaturales, así que por un capricho, decidí ir yo mismo allí, a un pueblo donde aparentemente tales cosas son comunes. Una vez que llegamos, yo y varios guardias decidimos quedarnos despiertos esa noche, mirando por la ventana en busca de cualquier señal. de los espíritus".
-VIETmisc.2066.a:0 "Vamos, vamos, reveláos..."
-VIETmisc.2067.t:0 "Un avistamiento espeluznante"
-VIETmisc.2067.desc:0 "Justo cuando empezaba a quedarme dormido, ¡los vi! ¡Vi a todos los espíritus, marchando aquí y allá! Me quedé boquiabierto. Tales cosas pocas personas vivas han presenciado, sin embargo, allí estaban, ¡Caminando como los vivos! Estaba tan emocionado que accidentalmente resbalé y aterricé boca abajo en el suelo.\n\nCuando recuperé el conocimiento, mis guardias se sintieron aliviados de que no me hubiera lastimado y me preguntaron qué sucedió y por qué. Estaba tan emocionado antes. Les dije lo que había presenciado, pero estaban confundidos. Un guardia dijo: "No hay nada ahí afuera, mi [ROOT.Char.GetLadyLord]. No vimos nada".
-VIETmisc.2067.a:0 "¡Te juro que vi los fantasmas! ¡No estoy loco, los vi!"
-VIETmisc.2067.b:0 "¿Lo soñé? Sin embargo... todo parecía tan real."
-VIETmisc.2068.t:0 "Nada"
-VIETmisc.2068.desc:0 "Nos sentamos junto a la ventana durante mucho tiempo, hasta altas horas de la madrugada. Sin embargo, no pasó nada interesante y yo estaba dormido cuando salió el sol. Todo el viaje , al parecer, había sido un completo desperdicio. Quizás esas historias de fantasmas eran solo eso: historias".
-VIETmisc.2068.a:0 "Al menos tuve unas pequeñas vacaciones, ¿verdad?"
-VIETmisc.2069.t:0 "¡Estaban allí!"
-VIETmisc.2069.desc:0 "Estuvimos sentados junto a la ventana durante mucho tiempo y no sucedió nada interesante. Debo haberme quedado dormido, porque cuando me desperté, escuché a algunos de mis guardias charlando animadamente. Uno , un joven ingenuo, me dijo mientras señalaba afuera: "Mi [ROOT.Char.GetLadyLord], confías en mí, ¿no? ¡Te juro que vi los fantasmas, justo ahora! Desaparecieron, pero estaban allí !"\n\nLos otros guardias se rieron y dijeron que el niño se había quedado dormido y despertó hace un momento. "Debes haber estado soñando, amigo mío", dijo uno de ellos. "Ninguno de nosotros vio nada".\n\nEl Todo el viaje terminó siendo un desperdicio, ya que nada inusual sucedió el resto de esa noche. Probablemente".
-VIETmisc.2069.a:0 "Le creo al chico. Los fantasmas deben haber estado ahí fuera".
-VIETmisc.2069.b:0 "El chico debe haberlo soñado o confundido algo con un fantasma."
-VIETmisc.2070.t:0 "El ermitaño de [condado.GetNameNoTier]"
-VIETmisc.2070.desc:0 "La noticia de la "momia" de un santo ermitaño de [condado.GetNameNoTier] incluso ha llegado a mis oídos, y me encargué de ver de qué se trataba y tal vez obtener algunas ideas espirituales. en el camino. Viajé varios días a la parte del desierto donde este ermitaño una vez llamó hogar.\n\nCuando llegué, su cadáver todavía estaba allí, sentado en posición vertical en una posición de meditación. Ofrendas de flores, comida y otros similares los artículos estaban dispuestos frente a él, y algunas personas estaban sentadas o de pie cerca, en profunda oración o pensando".
-VIETmisc.2070.a:0 "Siéntate un rato y reflexiona"
-VIETmisc.2070.b:0 "Haz algunas ofrendas"
-VIETmisc.2071.t:0 "El gran árbol de sombra de [condado.GetNameNoTier]"
-VIETmisc.2071.desc:0 "Hay un gran árbol de sombra en un pueblo en [county.GetNameNoTier], tan grande que incluso yo, [ROOT.Char.GetTitledFirstName], decidí que valía la pena visitarlo. Los aldeanos estaban sorprendido pero halagado de que incluso considerara que su pueblo valía la pena visitar, y me recibieron con un pequeño banquete y varias diversiones mezquinas como bailes y sus canciones campesinas. Después, llegué al gran árbol de sombra. Era, para decirlo simplemente, muy grande. Verdaderamente, uno podría acomodar a los miembros de todo un clan debajo de él ".
-VIETmisc.2071.a:0 "Pasé un par de horas relajándome debajo de él y pasé un buen rato".
-VIETmisc.2072.t:0 "Un monumento de piedra"
-VIETmisc.2072.desc:0 "Me he tomado un tiempo para viajar a las partes más remotas de [county.GetNameNoTier] donde hay un gran monumento de piedra antiguo. Tenía curiosidad y me preguntaba cómo sería. Al llegar a Para conocer la ubicación, me acerco al monumento para examinarlo más a fondo. Aunque su forma es tosca, claramente fue tallado por manos humanas. También tiene un tamaño impresionante, y puedo ver por qué los lugareños no han podido moverlo a ninguna parte. Uno tiene que preguntarse cómo llegó aquí en primer lugar".
-VIETmisc.2072.a:0 "Paso un par de horas disfrutando del paisaje y relajándome".
-VIETmisc.2072.b:0 "Mi instinto académico me dice que investigue más a fondo el monumento".
-# 1.4.7 - por favor deje este comentario aquí
-# 1.4.8 - por favor deje este comentario aquí
-VIETmisc.2073.t:0 "Compra de burros"
-VIETmisc.2073.desc:0 "Llego a un pueblo en [county.GetNameNoTier] para reunirme con un notable local que es conocido por poseer una gran manada de burros que se dice que es una de las mejores de la zona. Pasamos un tiempo negociando cuantos burros voy a comprar y cuanto tendria que pagar, al final acepto comprar:"
-VIETmisc.2073.a:0 "Una pequeña manada de burros"
-VIETmisc.2073.b:0 "Una manada mediana de burros"
-VIETmisc.2073.c:0 "Una gran manada de burros"
-VIETmisc.2074.t:0 "Una sugerencia"
-VIETmisc.2074.desc:0 "[courtier.GetTitledFirstName] tenía una mirada pensativa en [courtier.GetHerHis] como [courtier.GetSheHe] y di un paseo por mi residencia.\n\n"Parece que no tengo muchos palomares", comenta [cortesano.GetSheHe]. "Me di cuenta de eso ahora". Char.GetLadyLord], creo que necesita más si desea demostrar lo poderoso que es [ROOT.Char.GetTitleAsNameNoTooltip]", explica [courtier.GetSheHe], "podría ser suficiente para construir algo más en su residencia. Después de todo , [ROOT.Char.GetSheHe] quien posee muchos palomares posee muchas palomas, y [ROOT.Char.GetSheHe] quien posee muchas palomas posee mucho poder.”
-VIETmisc.2074.a:0 "No estoy seguro, suena a vanidad sin sentido. Tal vez. Ya veremos".
-VIETmisc.2074.b:0 "¡Buena sugerencia, [cortesano.GetFirstNameNoTooltip]! Una idea maravillosa, sin duda."
-VIETmisc.2074.info:0 "#énfasis Contexto histórico:#! Aunque las palomas domésticas (#italic Columba livia domestica#!) son más conocidas en los tiempos modernos por su capacidad de volver a casa, que se usaba para transmitir mensajes escritos, antes de los primeros período moderno, eran tan apreciados, si no más, por su carne y su estiércol, que se usaba para fertilizar las tierras agrícolas. de estatus y privilegio, ya que a menudo fueron construidos por aquellos de estatus de élite en muchas sociedades".
-VIETmisc.2074.tooltip:0 "Mientras tenga el [GetModifier('VIET_dovecote_interest').GetNameWithTooltip] [character_modifier|E], tendrá acceso a una [decisión|E] para #V Agregar más palomares a su Residence#!. Sin embargo, tenga en cuenta que perderá interés en hacerlo con el tiempo; una vez que expire el modificador, la [decisión|E] ya no estará disponible. Además, esta [decisión|E] solo se puede tomar una vez."
-VIETmisc.2075.t:0 "Nuevos palomares"
-VIETmisc.2075.desc:0 "Después de todo, he decidido que era una buena idea construir aún más palomares cerca de mi residencia y emplear personal adicional para cuidar del mayor número de palomas y palomas que tendré. Después de unos deliberación, decidí construir…”
-VIETmisc.2075.a:0 "Algunos palomares nuevos"
-VIETmisc.2075.b:0 "Varios palomares nuevos"
-VIETmisc.2075.c:0 "Muchos palomares nuevos"
-VIETmisc.2076.t:0 "¿Un pasatiempo nuevo y relajante?"
-VIETmisc.2076.desc:0 "De vez en cuando, cuando deambulo por el campo, me encuentro con algunos pájaros cantores salvajes. Estas pequeñas criaturas revolotean de un lado a otro, y se posan en las ramas de los árboles y en las rocas, mientras cantan su delicioso sonido. canciones. He encontrado una diversión extrañamente agradable cada vez que me encuentro con las criaturas. Y escuchar su canto me ayuda a obtener una sensación de paz".
-VIETmisc.2076.a:0 "Tal vez debería hacer esto con más frecuencia para relajarme".
-VIETmisc.2076.b:0 "Es sólo una fantasía pasajera, un interés superficial mío".
-VIETmisc.2076.tooltip:0 "¡Ahora tiene acceso a una [decisión|E] para #V Escuchar pájaros cantores salvajes#!."
-VIETmisc.2077.t:0 "Pájaros cantores"
-VIETmisc.2077.desc:0 "Hoy, acompañado por algunos guardias, fui a un claro tranquilo y abierto en el campo, donde se sabe que se congregan los pájaros cantores. Me siento y me relajo mientras veo varios de esos pájaros posados cerca. Un una sonrisa aparece en mi rostro cuando los escucho twittear y cantar sus pequeñas canciones".
-VIETmisc.2077.a:0 "Qué bonito, ¿verdad?"
-VIETmisc.2077.tooltip.nothing:0 "No recibes ninguna inspiración significativa al escuchar estos pájaros, pero de todos modos te relajas".
-VIETmisc.2077.info.bird_01:0 "#énfasis Contexto biológico:#! El pájaro que se escuchó cantar hace un momento era la #negrita oropéndola euroasiática (#cursiva Oriolus oriolus#!)".
-VIETmisc.2077.info.bird_02:0 "#énfasis Contexto biológico:#! El pájaro que se escuchó cantar hace un momento era la #negrita curruca capirotada euroasiática (#cursiva Sylvia atricapilla#!)".
-VIETmisc.2077.info.bird_03:0 "#énfasis Contexto biológico:#! El pájaro que se escuchó cantar hace un momento era el #verderón europeo negrita#! (#cursiva Carduelis chloris#!)".
-VIETmisc.2077.info.bird_04:0 "#énfasis Contexto biológico:#! ¡El pájaro que se escuchó cantar hace un momento era el #Zordo Común#! (#cursiva Turdus philomelos#!)".
-VIETmisc.2077.info.bird_05:0 "#énfasis Contexto biológico:#! ¡El pájaro que se escuchó cantar hace un momento era el #Zordo Común#! (#cursiva Turdus philomelos#!)".
-VIETmisc.2077.info.bird_06:0 "#énfasis Contexto biológico:#! El pájaro que se escuchó cantar hace un momento era el #petirrojo europeo#! (#cursiva Erithacus rubecula#!)".
-VIETmisc.2077.info.bird_07:0 "#énfasis Contexto biológico:#! El pájaro que se escuchó cantar hace un momento era el #negrito jilguero euroasiático#! (#cursiva Carduelis spinus#!)".
-VIETmisc.2077.info.bird_08:0 "#énfasis Contexto biológico:#! El pájaro que se escuchó cantar hace un momento era el #pinzón común en negrita#! (#cursiva Fringilla coelebs#!)".
-VIETmisc.2077.info.bird_09:0 "#énfasis Contexto biológico:#! El pájaro que se escuchó cantar hace un momento era el #audaz papamoscas cerrojillo europeo#! (#cursiva Ficedula hypoleuca#!)".
-VIETmisc.2077.info.bird_10:0 "#énfasis Contexto biológico:#! El pájaro que se escuchó cantar hace un momento era el #gorrión de árbol euroasiático negrita#! (#pasador montanus en cursiva#!)".
-VIETmisc.2077.info.bird_11:0 "#énfasis Contexto biológico:#! El pájaro que se escuchó cantar hace un momento era la #negrita curruca melodiosa#! (#cursiva Hippolais polyglotta#!)".
-VIETmisc.2077.info.bird_12:0 "#énfasis Contexto biológico:#! El pájaro que se escuchó cantar hace un momento era el #negrito Drongo negro#! (#dicrurus macrocercus en cursiva#!)".
-# 1.5.0 - deje este comentario aquí y no lo elimine
-# 1.5.3 - deje este comentario aquí y no lo elimine
-VIETmisc.2078.t:0 "Los prados de flores"
-VIETmisc.2078.desc:0 "Hoy, me he tomado el tiempo de visitar los prados primaverales de [condado.GetName], famosos por la belleza de sus flores. No estoy decepcionado.\n\nDesde un extremo del horizonte hasta otro, hay cientos, si no miles, de pequeñas y encantadoras flores silvestres, cada una con su propio tono de color único. Con todas estas flores juntas así, cuando el viento sopla aunque sea levemente, parecen un tapiz en movimiento tejido por [ROOT.Char. GetFaith.HighGodName]!\n\nMe siento en el suelo en lo alto de una colina y solo contemplo maravillado la majestuosa belleza de la naturaleza ante mí".
-VIETmisc.2078.a:0 "Simplemente increíble".
-# 1.5.4 - deje este comentario aquí y no lo elimine
-
+ VIETmisc.2050.desc:0 "En el transcurso de las siguientes semanas, varios de mis sirvientes y yo empuñamos antorchas y otras armas para atacar a los cuervos cada vez que aparecen. Nuestra intención no es necesariamente matarlos, ya que sabemos que simplemente volarán. ¡En cambio, mi esperanza es que podamos ahuyentarlos hasta que aprendan a no interferir en mi negocio!\n\nY hoy, me di cuenta... No han regresado.\n\nDurante la última semana, no vi ningún cuervo cerca de mi residencia, o cerca mía cuando viajo a algún lugar. ¡Esto tiene que ser una buena señal!"
+ VIETmisc.2050.a:0 "¿Parece que no volverán nunca más?"
+ VIETmisc.2051.t:0 "El asesinato regresa"
+ VIETmisc.2051.desc:0 "Mis esperanzas sobre los cuervos se han desvanecido.\n\nDespués de varias semanas de paz, regresaron. Con ganas de venganza.\n\nHay muchos, muchos más cuervos ahora, aparentemente en números de cientos, que vienen donde quiera que esté, ya sea a mi residencia o en cualquier otro lugar, todos los días. Algunos veces simplemente graznan amenazadoramente, otros días vuelan y atacan a las personas al azar o incluso a mí mismo. ¡Incluso hay momentos en los que dejan caer piedritas y hierba, o incluso su estiércol por todas partes!\n\nLos [ROOT.Char.Custom('DefaultPriestTitlePlural')] insiste en que rece a [ROOT.Char.GetFaith.HighGodName] para ¡Líbrame de estos demonios, pero no hay duda de que he incurrido en su ira!"
+ VIETmisc.2051.a:0 "¿Por qué yo?"
+ VIETmisc.2052.t:0 "Alimentación"
+ VIETmisc.2052.desc:0 "Después de consultar con algunos eruditos versados en animales, decidí intentar alimentar a los cuervos. Hago que mis sirvientes recojan algunas bolsas llenas de semillas, nueces y sobras de comida sin terminar.\n\nUn día, cuando los cuervos pasaron, posados en un árbol no muy lejos de mi habitación, recogí las bolsas y salí a un pequeño trozo de tierra frente a ellos. Allí, silbé para llamar su atención antes de alcanzar la bolsa y tirar la comida al suelo. Los cuervos y yo nos miramos incómodos antes de irme para dejarlos en paz; unos minutos más tarde, desde mi habitación, vi a algunos descender en picado para comer la comida.\n\nEsto continuó durante varias semanas más, y me he dado cuenta... se siente uno bien, en realidad."
+ VIETmisc.2052.a:0 "¡Esperemos que esto aplaque a estos cuervos!"
+ VIETmisc.2052.b:0 "Estoy pensando en hacer aún más por ellos."
+ VIETmisc.2052.tooltip.a:0 "Sigues alimentando a los cuervos. Con suerte, esto los convencerá de que te dejen en paz."
+ VIETmisc.2052.tooltip.b:0 "Los cuervos no son tan malos, tal vez puedas encontrar una manera de ayudarlos aún más. Esto aumentará la probabilidad de que los cuervos te vean #P positivamente#!."
+ VIETmisc.2053.t:0 "Un jardín para cuervos"
+ VIETmisc.2053.desc:0 "Algunos de mis cortesanos debieron pensar que estaba loco, pero mandé a mis sirvientes que construyeran una pequeña fuente fuera de mi residencia y colocaran cerca de ella unos cuencos o recipientes donde dejaríamos algunas semillas, nueces y restos de comida todos los días. No solo nos desharemos de los restos de comida, sino que sería una buena manera de ayudar a los cuervos si lo que han querido todo este tiempo era solo un poco de alimento.\n\nMuy pronto, durante las próximas semanas, noté más y más cuervos que vienen por este pequeño jardín que hice. Ahora salgo a veces a saludarlos y darles de comer personalmente."
+ VIETmisc.2053.a:0 "Hay algunos que me cuestionan, pero estos cuervos parecen amistosos."
+ VIETmisc.2053.tooltip:0 "Ahora tienes acceso a una [decision|E] de #V Alimenta a los cuervos#!, que se puede hacer de vez en cuando para perder el estrés."
+ VIETmisc.2054.t:0 "¿Desaparecido?"
+ VIETmisc.2054.desc:0 "Me doy cuenta de que los cuervos ya no regresan a mi residencia. Es como si un día hubieran decidido no molestarme más. Quizás mi ofrecimiento de comida fue lo que los convenció de dejarme en paz. Tal vez no. Quizá nunca sepa la verdad."
+ VIETmisc.2054.a:0 "¿Bien está lo que bien acaba?"
+ VIETmisc.2055.t:0 "¡Cuervos!"
+ VIETmisc.2055.desc:0 "Los cuervos no dejaron de venir después de que comencé a darles de comer. En todo caso, creo que vinieron más de ellos. Y aún hay más en la historia.\n\nLos cuervos no solo me reconocen a mí, sino también el sonido de mi voz, especialmente si silbo. Ayer, estaba hospedando a un viajero extranjero, que era aburrido y monótono sin parar. Silbé por aburrimiento o por instinto y, en cuestión de minutos, apareció toda una bandada de cuervos.\n\nLo más extraño es que ni siquiera parecían graznar por comida como solían hacerlo. Caminaron arrastrando los pies, o se posaron en los árboles afuera, y todos miraron al viajero, que parecía muy incómodo: ¡era como si pensaran que quería que me protegieran y se aseguraran de que este viajero no estuviera causando problemas!"
+ VIETmisc.2055.a:0 "¡Ahora hay rumores en la corte de que poseo poderes temibles!"
+ VIETmisc.2055.tooltip:0 "Ahora tienes acceso a una [decision|E] de #V Alimenta a los cuervos#!, que se puede hacer de vez en cuando para perder el estrés."
+ VIETmisc.2055.toast:0 "¡Tu amistad con los cuervos ahora es material de leyenda!"
+ VIETmisc.2056.t:0 "Salvador imposible"
+ VIETmisc.2056.desc:0 "Un día estaba viajando por el páramo cuando una banda de salteadores de caminos nos tendió una emboscada a mí y a mis guardias, exigiendo que pagara o de lo contrario atacarían. Mientras nos preparábamos para pelear, silbé nerviosamente.\n\nUnos segundos después, se escuchó una gran conmoción en el cielo. Mis guardias y yo miramos conmocionados cuando lo que debían de haber sido cien cuervos aparecieron de la nada y se abalanzaron para acosar a los bandidos. Todos huyeron aterrorizados, gritando que yo era un hechicero con control sobre los elementos.\n\nEstoy bastante seguro de que no soy ese tipo de hechicero, pero después de que los bandidos se fueran, me aseguré de ordenar a mis guardias para que dejaran algunas de nuestras sobras de comida en el suelo, al costado del camino, como muestra de nuestro agradecimiento por la ayuda de los cuervos."
+ VIETmisc.2056.a:0 "¡Uno no es testigo de algo así todos los días!"
+ VIETmisc.2057.t:0 "Un pequeño regalo"
+ VIETmisc.2057.desc:0 "Estaba caminando afuera cuando vi algunos cuervos dando vueltas. Habiéndome acostumbrado a ellos, reconocí a algunos como de los habituales que me visitaban de vez en cuando.\n\n"¿Estáis aquí por comida?" les pregunté distraídamente.\n\nUnos momentos después, fueron a dejar algo a mis pies antes de salir volando.\n\nDe vez en cuando, a veces me dejan regalos como este. Tal vez sea un gesto de reconocimiento a nuestra extraña amistad. De todos modos, me agacho y miro lo que me presentaron esta vez:"
+ VIETmisc.2057.a:0 "Algunas monedas de oro"
+ VIETmisc.2057.b:0 "Varias pequeñas joyas"
+ VIETmisc.2057.c:0 "Unos trozos de pergamino"
+ VIETmisc.2057.d:0 "Algunas rocas bien formadas"
+ VIETmisc.2057.e:0 "Hierbas y pequeños helechos"
+ VIETmisc.2058.t:0 "Alimentando a los cuervos"
+ VIETmisc.2058.desc:0 "Me siento junto a los árboles y silbo por unos momentos. Antes de darme cuenta, varios cuervos se abalanzan sobre mí. Caminan a mi alrededor mientras me miran a la cara. La gente ignorante asumiría que están juzgando o maldiciendo. Sé que estos cuervos en realidad están felices de verme; hoy en día, a veces ni siquiera graznan para exigir comida, y simplemente disfrutamos de la presencia del otro. Mis sirvientes y yo incluso les hemos dado algunos nombres.\n\nDe todos modos, saco algunos restos de comida y empiezo a alimentar a los cuervos."
+ VIETmisc.2058.a:0 "¡Es bueno verlos de nuevo, amigos míos!"
+ VIETmisc.2059.t:0 "xxxxx"
+ VIETmisc.2059.desc:0 "xxxxx"
+ VIETmisc.2059.a:0 "xxxxx"
+ VIETmisc.2060.t:0 "xxxxx"
+ VIETmisc.2060.desc:0 "xxxxx"
+ VIETmisc.2060.a:0 "xxxxx"
+ # 1.4.4 - please leave this comment here
+ # 1.4.5 - please leave this comment here
+ VIETmisc.2061.t:0 "Escribir de la forma correcta"
+ VIETmisc.2061.desc:0 "Recientemente escuché que hay varias técnicas para ayudar a escribir más rápido, como el uso de abreviaturas o símbolos modificados para representar palabras. Tal vez tomarse un tiempo para aprender esto podría ser útil... o tal vez no. Si bien todavía estoy fascinado con este tema, tal vez pueda contactar a un erudito local o escriba que pueda enseñarme sobre estos asuntos."
+ VIETmisc.2061.a:0 "Suponiendo que tenga tiempo, por supuesto".
+ VIETmisc.2061.tooltip:0 "Mientras tengas el [character_modifier|E] [GetModifier('VIET_shorthand_interest').GetNameWithTooltip] , tendrás acceso a una [decision|E] para hacer solo eso. Sin embargo, tenga en cuenta que perderá interés en hacerlo con el tiempo; una vez que el modificador expira, la [decision|E] ya no estará disponible."
+ VIETmisc.2062.t:0 "Escribir de la forma correcta"
+ VIETmisc.2062.desc:0 "Desde hace algunos meses, he estudiado varias técnicas de taquigrafía con un escriba local que se dice que es un maestro en este arte. He aprendido varias formas de abreviar mis palabras, o ciertas formas de escribir palabras más rápidamente."
+ VIETmisc.2062.desc.result_meh:0 "\n\nDespués de pasar todo este tiempo aprendiendo, ahora puedo decir que aunque no soy el mejor en taquigrafía, soy algo capaz en su uso. No he mejorado considerablemente la velocidad de mi escritura, pero ahora es mejor que antes, por lo que todavía me es un conocimiento útil."
+ VIETmisc.2062.desc.result_good:0 "\n\nEl escriba dice que está impresionado con mi habilidad para captar sus lecciones. Ahora puedo escribir mucho más rápido que antes, garabateando oraciones enteras en un abrir y cerrar de ojos. Esto debería ayudarme significativamente cuando se trata de varios aspectos en mi carga de trabajo diaria, ¡así que definitivamente valió la pena!"
+ VIETmisc.2062.a:0 "¡Mi escritura es correcta!"
+ # 1.4.6 - please leave this comment here
+ VIETmisc.2063.t:0 "Bayas como Buena Medicina"
+ VIETmisc.2063.desc:0 "He enviado a mis sirvientes a comprar algunas de las renombradas bayas de [county.GetNameNoTier]. Mi medico [physician.GetTitledFirstName]. Puedo usar estas bayas medicinales para una variedad de propósitos, y puedo beber varios tés de hierbas hechos con estas bayas como un tónico para la salud. Ahora, ¿cuántas bayas les pido a mis sirvientes que compren de nuevo?"
+ VIETmisc.2063.a:0 "Una pequeña cantidad, no demasiada pero suficiente."
+ VIETmisc.2063.b:0 "Una cantidad media debería ser más que suficiente."
+ VIETmisc.2063.c:0 "Una gran cantidad para que me dure mucho tiempo."
+ VIETmisc.2064.t:0 "Habilidades de herrero"
+ VIETmisc.2064.desc:0 "[county.GetNameNoTier] es conocido por sus renombrados herreros, de quienes se dice son algunos de los mejores de su oficio en el mundo, he decidido que sería una buena idea reclutar a algunos para servir a mis ejércitos. Sus habilidades en la fabricación, reparación y mantenimiento de armas y armaduras deberían ser de gran utilidad para mí. Sin embargo, debería determinar qué tipo de especialistas quiero."
+ VIETmisc.2064.a:0 "Armeros talentosos para que mis tropas tengan la protección adecuada."
+ VIETmisc.2064.b:0 "Armeros expertos para que mis fuerzas pueden luchar bien."
+ VIETmisc.2064.c:0 "Expertos en la elaboración de herramientas y suministros para apoyar mis campañas."
+ VIETmisc.2065.t:0 "Visita al Santuario Funerario"
+ VIETmisc.2065.desc:0 "He decidido visitar el santuario en la colina de [county.GetNameNoTier], donde está enterrado un supuesto personaje legendario. El viaje por el campo fue placentero y, finalmente, encontramos el camino a nuestro destino."
+ VIETmisc.2065.desc.warrior:0 "\n\nSegún el folclore local, el guerrero enterrado bajo este montículo derrotó a un monstruo terrible hace muchas generaciones, liberando a la gente de la ira y la furia de la bestia demoníaca. O… al menos eso es lo que me dijeron algunos de los lugareños. Otros dijeron que solo derrotó a un ejército de invasores extranjeros. De cualquier manera, las historias terminan con su heroica muerte."
+ VIETmisc.2065.desc.holy:0 "\n\nSegún el folclore local, hay una santa celebridad enterrada bajo este montículo, tal vez un [ROOT.Char.Custom('DefaultPriestTitle')] de algún tipo - que vivió aquí hace muchos siglos. Esta persona santa fue bendecida por [ROOT.Char.GetFaith.HighGodName] y podía realizar muchas obras milagrosas, como curar a los enfermos incurables."
+ VIETmisc.2065.desc.monarch:0 "\n\nSegún el folclore local, un gran monarca está enterrado bajo este montículo. Este monarca era un gobernante justo, valiente, trabajador y moralmente recto, y en gran medida la imagen perfecta de lo que debería ser un gobernante. Bajo su liderazgo, la tierra prosperó y estuvo en paz, y la gente estaba feliz."
+ VIETmisc.2065.a:0 "¡Qué gloriosa historia posee [county.GetNameNoTier]!"
+ VIETmisc.2066.t:0 "Cacería de fantasmas"
+ VIETmisc.2066.desc:0 "Desde hace mucho tiempo, circulan historias sobre supuestos fantasmas que aparecen en cantidades masivas en algunos asentamientos de [county.GetNameNoTier]. Tenía curiosidad y quería ver si podía vislumbrar tales fenómenos sobrenaturales, así que, por capricho, decidí ir yo mismo, a un pueblo donde aparentemente tales cosas son comunes. Una vez que llegamos, varios guardias y yo decidimos quedarnos despiertos hasta tarde esa noche, observando por la ventana cualquier señal de los espíritus."
+ VIETmisc.2066.a:0 "Vamos, vamos, mostraros…."
+ VIETmisc.2067.t:0 "Un avistamiento espeluznante"
+ VIETmisc.2067.desc:0 "Justo cuando estaba empezando a adormecerme, ¡los vi! ¡Vi todos los espíritus, marchando de aquí a allá! Mi mandíbula se abrió. Tales cosas pocas personas vivas han presenciado, sin embargo, allí estaban, ¡caminando como los vivos! Estaba tan emocionado que accidentalmente resbalé y aterricé de cara en el suelo.\n\nCuando recuperé el conocimiento, mis guardias se sintieron aliviados de que no me hubiera herido y me preguntaron qué sucedió y por qué estaba tan emocionado antes. Les dije lo que había presenciado, pero estaban confundidos. Un guardia dijo, “No hay nada por ahí, mi [ROOT.Char.GetLadyLord]. Nosotros no vimos nada”"
+ VIETmisc.2067.a:0 "¡Juro que vi los fantasmas! No estoy loco, ¡los vi!"
+ VIETmisc.2067.b:0 "¿Lo soñé? Sin embargo... todo parecía tan real."
+ VIETmisc.2068.t:0 "Nada"
+ VIETmisc.2068.desc:0 "Nos sentamos junto a la ventana durante mucho tiempo, hasta altas horas de la madrugada. Aún así, no sucedió nada interesante, y yo estaba dormido cuando salió el sol. Todo el viaje, al parecer, había sido un completo desperdicio. Quizás esas historias de fantasmas eran solo eso, historias."
+ VIETmisc.2068.a:0 "Al menos tuve unas pequeñas vacaciones, ¿verdad?"
+ VIETmisc.2069.t:0 "Ellos estaban por ahi"
+ VIETmisc.2069.desc:0 "Nos sentamos junto a la ventana durante mucho tiempo y no sucedió nada interesante. Debo haberme quedado dormido, porque cuando me desperté, escuché a algunos de mis guardias charlando con entusiasmo. Uno, un joven ingenuo, me dijo mientras señalaba afuera: “Mi [ROOT.Char.GetLadyLord], confía en mí, ¿no? ¡Juro que vi los fantasmas, justo ahora! ¡Desaparecieron, pero estaban allí!”\n\nLos otros guardias se rieron y dijeron que el niño se había quedado dormido y despertó justo ahora. “Debes haber estado soñando, amigo mío”, dijo uno de ellos. "Ninguno de nosotros ha visto nada".\n\nTodo el viaje terminó siendo un desperdicio, ya que nada inusual sucedió el resto de esa noche. Probablemente."
+ VIETmisc.2069.a:0 "Creo al chico. Los fantasmas deben haber estado ahí fuera."
+ VIETmisc.2069.b:0 "El niño debe haberlo soñado o confundido algo con un fantasma."
+ VIETmisc.2070.t:0 "El ermitaño de [county.GetNameNoTier]"
+ VIETmisc.2070.desc:0 "Han llegado a mis oídos noticias de la "momia", un santo ermitaño de [county.GetNameNoTier], me encargué de ver de qué se trataba, y tal vez obtener algunas ideas espirituales de paso. Viajé durante varios días hasta la zona del yermo donde este ermitaño una vez llamó hogar.\n\nCuando llegué, su cadáver aún estaba allí, sentado en posición de meditación. Frente a él se disponían ofrendas de flores, alimentos y otros artículos similares, y algunas personas estaban sentadas o de pie cerca, en profunda oración o pensamiento."
+ VIETmisc.2070.a:0 "Siéntate un rato y reflexiona."
+ VIETmisc.2070.b:0 "Haz algunas ofrendas."
+ VIETmisc.2071.t:0 "El gran árbol de sombra de [county.GetNameNoTier]"
+ VIETmisc.2071.desc:0 "Hay un gran árbol de sombra en un pueblo de [county.GetNameNoTier], tan grande que incluso yo, [ROOT.Char.GetTitledFirstName], decidí que valía la pena mi tiempo el visitarlo. Los aldeanos se sorprendieron, pero se sintieron halagados de que considerara que valía la pena visitar su aldea, me dieron la bienvenida con un pequeño festín y varias diversiones insignificantes como bailes y canciones campesinas. Después llegué al gran árbol de sombra. Era, por decirlo simplemente, muy grande. En verdad, uno podría acomodar a todos los miembros de un clan debajo de él."
+ VIETmisc.2071.a:0 "Estuve un par de horas relajándome debajo de él y pasé un buen rato."
+ VIETmisc.2072.t:0 "Un monumento de piedra."
+ VIETmisc.2072.desc:0 "Me he tomado un tiempo para viajar a las zonas más remotas de [county.GetNameNoTier], donde hay un gran y antiguo monumento de piedra. Tenía curiosidad y me preguntaba cómo era. Al llegar al lugar, me acerco al monumento para examinarlo más a fondo. Aunque su forma es tosca, claramente fue tallada por manos humanas. También tiene un tamaño impresionante, y puedo ver por qué los lugareños no han podido moverlo a otra parte. Uno tiene que preguntarse cómo llegó aquí en un primer momento."
+ VIETmisc.2072.a:0 "Paso un par de horas disfrutando del paisaje y relajándome."
+ VIETmisc.2072.b:0 "Mis instintos académicos me dicen que investigue más a fondo el monumento."
+ # 1.4.7 - please leave this comment here
+ # 1.4.8 - please leave this comment here
+ VIETmisc.2073.t:0 "Compra de burros"
+ VIETmisc.2073.desc:0 "Llego a un pueblo de [county.GetNameNoTier] para reunirme con un noble local, que es conocido por poseer una gran manada de burros que se dice, es de las mejores en la zona. Pasamos un tiempo negociando cuántos burros compraría y cuánto tendría que pagar. Al final, acepto comprar:"
+ VIETmisc.2073.a:0 "Una pequeña manada de burros."
+ VIETmisc.2073.b:0 "Una manada mediana de burros."
+ VIETmisc.2073.c:0 "Una gran manada de burros."
+ VIETmisc.2074.t:0 "Una sugerencia"
+ VIETmisc.2074.desc:0 "[courtier.GetTitledFirstName] tenía una mirada pensativa en [courtier.GetHerHis] cara, [courtier.GetSheHe] dio un paseo por mi residencia.\n\n“No pareces tener muchos palomares,” [courtier.GetSheHe] comentó. “Me di cuenta de ello justo ahora.”\n\n“Tengo suficientes” Respondo con una risita.\n\n“Con todo respeto mi [ROOT.Char.GetLadyLord], creo que necesitas más si deseas demostrar lo poderoso que eres. "Eres un [ROOT.Char.GetTitleAsNameNoTooltip]” [courtier.GetSheHe] continuó, “podría ayudaros a construir unos pocos más para su residencia. Después de todo, [ROOT.Char.GetSheHe] posee muchos palomares y tiene también muchas palomas, y quien posee muchas palomas posee mucho poder.”"
+ VIETmisc.2074.a:0 "No estoy seguro, suena como vanidad sin sentido. Quizás. Ya veremos."
+ VIETmisc.2074.b:0 "Buena sugerencia, [courtier.GetFirstNameNoTooltip]! Una idea maravillosa, sin duda."
+ VIETmisc.2074.info:0 "#emphasis Contexto histórico:#! Aunque las palomas domésticas (#italic Columba livia domestica#!) son más conocidos en los tiempos modernos por su capacidad para transmitir mensajes escritos, antes del período moderno temprano, eran tan apreciados, si no más, por su carne y por su estiércol, que se usaba para fertilizar tierra agricola. Los palomares, estructuras en forma de torre utilizadas para albergar a las palomas de una propiedad, se consideraban marcadores de estatus y privilegio, ya que a menudo eran construidos por personas de la élite en muchas sociedades."
+ VIETmisc.2074.tooltip:0 "Mientras tengas [GetModifier('VIET_dovecote_interest').GetNameWithTooltip] como [character_modifier|E], tendrás acceso a la [decision|E] a #V Agregar más palomares a tu residencia#!. Tenga en cuenta sin embargo, que perderá interés en hacerlo con el tiempo; una vez que el modificador expira, la [decision|E] ya no estará disponible. Además, esta [decision|E] solo se puede elegir una vez."
+ VIETmisc.2075.t:0 "Nuevos Palomares"
+ VIETmisc.2075.desc:0 "Después de todo, decidí que era una buena idea construir aún más palomares cerca de mi residencia y contratar personal adicional para cuidar el mayor número de palomas. Después de algunas deliberaciones, decidí construir…"
+ VIETmisc.2075.a:0 "Unos pocos palomares nuevos."
+ VIETmisc.2075.b:0 "Varios palomares nuevos"
+ VIETmisc.2075.c:0 "Muchos palomares nuevos"
+ VIETmisc.2076.t:0 "¿Un pasatiempo nuevo y relajante?"
+ VIETmisc.2076.desc:0 "De vez en cuando, cuando deambulo por el campo, me encuentro con algunos pájaros cantores salvajes. Estas pequeñas criaturas revolotean de un lado a otro y se posan en las ramas de los árboles y en las rocas, mientras cantan sus deliciosas canciones. Me ha resultado una diversión extrañamente agradable cada vez que me encuentro con estas criaturas y escuchar su canto, me ayuda a obtener una sensación de paz."
+ VIETmisc.2076.a:0 "Tal vez debería hacer esto más regularmente para relajarme."
+ VIETmisc.2076.b:0 "Es sólo una distracción pasajera, un interés superficial mío."
+ VIETmisc.2076.tooltip:0 "Ahora tiene acceso a una [decision|E] de #V Escuchar pájaros cantores salvajes#!."
+ VIETmisc.2077.t:0 "Pájaros cantores"
+ VIETmisc.2077.desc:0 "Hoy, acompañado por algunos guardias, fui a un claro tranquilo y abierto en el campo, donde se sabe que se congregan los pájaros cantores. Me siento y me relajo cuando veo varias de esas aves posadas cerca. Una sonrisa aparece en mi rostro cuando los escucho tararear y cantar sus pequeñas canciones."
+ VIETmisc.2077.a:0 "Qué hermoso, ¿no?"
+ VIETmisc.2077.tooltip.nothing:0 "No recibe ninguna inspiración significativa al escuchar estas aves, pero de todos modos tiene un momento de relajación."
+ VIETmisc.2077.info.bird_01:0 "#emphasis Contexto biológico:#! El pájaro que escuché cantar hace un momento era el #bold Oropéndola euroasiática#! (#italic Oriolus oriolus#!)."
+ VIETmisc.2077.info.bird_02:0 "#emphasis Contexto biológico:#! El pájaro que escuché cantar hace un momento era el #bold Alondra euroasiática#! (#italic Sylvia atricapilla#!)."
+ VIETmisc.2077.info.bird_03:0 "#emphasis Contexto biológico:#! El pájaro que escuché cantar hace un momento era el #bold Verderón europeo#! (#italic Carduelis chloris#!)."
+ VIETmisc.2077.info.bird_04:0 "#emphasis Contexto biológico:#! El pájaro que escuché cantar hace un momento era el #bold Tordo cantor#! (#italic Turdus philomelos#!)."
+ VIETmisc.2077.info.bird_05:0 "#emphasis Contexto biológico:#! El pájaro que escuché cantar hace un momento era el #bold Tordo cantor#! (#italic Turdus philomelos#!)."
+ VIETmisc.2077.info.bird_06:0 "#emphasis Contexto biológico:#! El pájaro que escuché cantar hace un momento era el #bold Petirrojo europeo#! (#italic Erithacus rubecula#!)."
+ VIETmisc.2077.info.bird_07:0 "#emphasis Contexto biológico:#! El pájaro que escuché cantar hace un momento era el #bold Jilguero euroasiático#! (#italic Carduelis spinus#!)."
+ VIETmisc.2077.info.bird_08:0 "#emphasis Contexto biológico:#! El pájaro que escuché cantar hace un momento era el #bold Pinzón común#! (#italic Fringilla coelebs#!)."
+ VIETmisc.2077.info.bird_09:0 "#emphasis Contexto biológico:#! El pájaro que escuché cantar hace un momento era el #bold Papamoscas cerrojillo europeo#! (#italic Ficedula hypoleuca#!)."
+ VIETmisc.2077.info.bird_10:0 "#emphasis Contexto biológico:#! El pájaro que escuché cantar hace un momento era el #bold Gorrión arborícola euroasiático#! (#italic Passer montanus#!)."
+ VIETmisc.2077.info.bird_11:0 "#emphasis Contexto biológico:#! El pájaro que escuché cantar hace un momento era el #bold Reinita melodiosa#! (#italic Hippolais polyglotta#!)."
+ VIETmisc.2077.info.bird_12:0 "#emphasis Contexto biológico:#! El pájaro que escuché cantar hace un momento era el #bold Drongo negro#! (#italic Dicrurus macrocercus#!)."
+ # 1.5.0 - please leave this comment here and do not remove it
+ # 1.5.3 - please leave this comment here and do not remove it
+ VIETmisc.2078.t:0 "Los prados de flores"
+ VIETmisc.2078.desc:0 "Hoy, me he tomado un tiempo para visitar los prados primaverales de [county.GetName], famosos por la belleza de sus flores. No estoy nada decepcionado.\n\nDe un extremo al otro del horizonte, hay cientos, si no miles, de pequeñas y encantadoras flores silvestres, cada una con su propio tono de color único. Con todas estas flores juntas así, cuando el viento sopla aunque sea levemente, parecen un tapiz en movimiento tejido por [ROOT.Char.GetFaith.HighGodName]!\n\nMe siento en el suelo en lo alto de una colina y solo miro maravillado la majestuosa belleza de la naturaleza ante mí."
+ VIETmisc.2078.a:0 "Simplemente asombroso"
+ # 1.5.4 - please leave this comment here and do not remove it
  VIETmisc.2079.t:0 "xxxxx"
  VIETmisc.2079.desc:0 "xxxxx"
  VIETmisc.2079.a:0 "xxxxx"

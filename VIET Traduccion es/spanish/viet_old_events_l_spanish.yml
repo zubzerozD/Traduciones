@@ -188,7 +188,7 @@
  VIETold.0039.b:0 "¡HUIR!"
  VIETold.0039.c:0 "A juzgar por el ángulo de la luz, es solo una distorsión de mi sombra."
  VIETold.0040.t:0 "El comerciante incompetente"
- VIETold.0040.desc:0 "While shopping at a local fair, I realize that one of the merchants isn’t selling a lot of merchandise. After observing him for a while, I realize he is absolutely terrible at advertising his wares, and it's so frustrating to watch him that I can't help by openly criticize him for this."
+ VIETold.0040.desc:0 "Mientras compro en una feria local, me doy cuenta de que uno de los comerciantes no vende mucha mercancía. Después de observarlo por un tiempo, me doy cuenta de que es absolutamente terrible publicitando sus productos, y es tan frustrante verlo que no puedo evitar criticarlo abiertamente por esto."
  VIETold.0040.a:0 "¿Cómo no eres ya un mendigo hambriento? Será mejor que mejores en esto."
  VIETold.0040.b:0 "Te compraré tus productos, pero la próxima vez trata de mejorar."
  VIETold.0040.c:0 "Tengo algunas sugerencias sobre cómo publicitar mejor tus productos..."
@@ -541,7 +541,7 @@
  VIETold.0156.t:0 "xxxxx"
  VIETold.0156.desc:0 "xxxxx"
  VIETold.0156.a:0 "xxxxx"
- VIETold.0157.t:0 "xxxxx" 
+ VIETold.0157.t:0 "xxxxx"
  VIETold.0157.desc:0 "xxxxx"
  VIETold.0157.a:0 "xxxxx"
  VIETold.0158.t:0 "xxxxx"
@@ -863,124 +863,122 @@
  VIETold.1045.desc:0 "En un Hadiz, se dice que el Profeta (que en paz descanse) dijo que "si no fuera por no sobrecargar a los creyentes habría ordenado usar miswak en cada oración." El uso del miswak, la rama que te limpia los dientes, ¡seguro es un símbolo de piedad! Podría ser una buena idea prometer utilizar el miswak antes de cada oración tanto como pueda."
  VIETold.1045.a:0 "¡Una buena idea!"
  VIETold.1045.b:0 "Tal vez sea exagerado."
- VIETold.1045.info:0 "#emphasis Historical Context:#! El miswak es un tipo de palito limpiador de dientes que fue muy popular durante siglos en el Oriente Medio, norte de África y sur de Asia. Los hadices islámicos mencionan su importancia y recomiendan su uso en muchas situaciones, incluso se sigue usando a día de hoy."
+ VIETold.1045.info:0 "#emphasis Contexto histórico:#! El miswak es un tipo de palito limpiador de dientes que fue muy popular durante siglos en el Oriente Medio, norte de África y sur de Asia. Los hadices islámicos mencionan su importancia y recomiendan su uso en muchas situaciones, incluso se sigue usando a día de hoy."
  VIETold.1046.t:0 "Palillo de dientes dorado"
- VIETold.1046.desc:0 "Un noble que me visitó desde lejos me regaló un mondadientes muy hermoso, elaborado con el oro más puro. Está incrustado con diminutas piedras preciosas y hábilmente tallado en hermosas formas artísticas. Por otra parte, no hay mucho sentido desperdiciar un palillo tan lujoso para limpiarme los dientes".
+ VIETold.1046.desc:0 "Un noble que viene de visita desde muy lejos, me ha regalado un mondadientes muy bonito, elaborado con el oro más puro. Está incrustado con diminutas piedras preciosas y hábilmente tallado en hermosas formas artísticas. Por otra parte, no tiene mucho sentido desperdiciar un palillo tan lujoso para limpiarme los dientes."
  VIETold.1046.a:0 "Servirá como decoración en mi baño."
- VIETold.1047.t:0 "Cepillado de dientes fuerte"
- VIETold.1047.desc:0 "Hoy, mientras hablaba con un dignatario visitante, supe por él que los hombres de Cathay prefieren limpiarse los dientes con cepillos de dientes que tienen cerdas más duras y ásperas".
- VIETold.1047.a:0 "¡Qué gente tan valiente, esos chinos!"
+ VIETold.1047.t:0 "Cepillado de dientes duro"
+ VIETold.1047.desc:0 "Hoy, mientras hablaba con un dignatario visitante, supe por él que los hombres de Cathay prefieren limpiarse los dientes con cepillos de dientes que tienen cerdas más duras y ásperas."
+ VIETold.1047.a:0 "¡Qué pueblo tan valiente, esos chinos!"
  VIETold.1047.b:0 "¡Qué terquedad en su obsesión por limpiarse los dientes!"
  VIETold.1048.t:0 "Cepillado de dientes romántico"
- VIETold.1048.desc:0 "[scope_VIET_toothbrush_pervert.GetTitledFirstName] ¡es un cortesano tan lascivo! Ahora mismo, este tonto tiene la audacia de explicarme cosas moralmente dudosas de naturaleza "romántica" que uno podría hacer con un cepillo de dientes. ¡y algunos de mis otros cortesanos! ¡Qué ideas enfermizas, horribles, repugnantes, vergonzosas, bárbaras, animalistas, repulsivas y vulgares nos vimos obligados a escuchar!
+ VIETold.1048.desc:0 "¡[scope_VIET_toothbrush_pervert.GetTitledFirstName] es un cortesano tan lascivo! ¡Por qué, en este preciso momento, este tonto tiene la audacia de ponerse a explicar cosas moralmente dudosas, de naturaleza "romántica", que uno podría hacer con un cepillo de dientes delante mía y de algunos de mis otros cortesanos! ¡Qué ideas enfermizas, horribles, repugnantes, vergonzosas, bárbaras, animalísticas, repulsivas y vulgares nos vimos obligados a escuchar!"
  VIETold.1048.a:0 "¡Sal de la habitación antes de que sea demasiado tarde!"
- VIETold.1048.b:0 "Escuche por cortesía y luzca neutral".
+ VIETold.1048.b:0 "Escuche por cortesía y luzca neutral."
  VIETold.1048.c:0 "¿Por qué? Esas ideas no son tan malas..."
  VIETold.1048.d:0 "¡Ja, ja, un aficionado absoluto! Si supieran lo que he hecho antes..."
  VIETold.1049.t:0 "Limpieza de la lengua"
- VIETold.1049.desc:0 "Uno de mis sirvientes mayores me dio un consejo interesante relacionado con la higiene bucal que escuchó de algunos hombres eruditos. Aparentemente, parece que uno no solo debe limpiarse los dientes, sino también la lengua. Después de todo , las cosas repugnantes también se acumulan en la lengua, entonces, ¿por qué no deberíamos prestarle tanta atención como lo hacemos con nuestros dientes?
+ VIETold.1049.desc:0 "Uno de mis sirvientes más mayores, me dio un consejo interesante relacionado con la higiene bucal que escuchó de algunos hombres eruditos. Aparentemente, parece que uno debe limpiarse no solo los dientes, sino también la lengua. Después de todo, las cosas repugnantes también se acumulan en la lengua, entonces, ¿por qué no deberíamos prestarla tanta atención como lo hacemos con nuestros dientes?"
  VIETold.1049.a:0 "Excelente consejo. ¡Gracias!"
- VIETold.1049.info:0 "#énfasis Contexto histórico:#! La limpieza de lengua se ha practicado durante siglos en muchas culturas diferentes de todo el mundo. Los limpiadores de lengua estaban hechos de piezas finas de madera, metales, marfil, perla, hueso de animal, caparazones de tortuga, y más".
+ VIETold.1049.info:0 "#emphasis Contexto histórico:#! La limpieza de la lengua se ha practicado durante siglos en muchas culturas diferentes de todo el mundo. Los limpiadores de lengua estaban hechos de piezas delgadas de madera, metales, marfil, perlas, huesos de animales, caparazones de tortuga y más."
  VIETold.1050.t:0 "Atención dental"
- VIETold.1050.desc:0 "Ver a todas las personas mayores con sus encías horribles y dientes cariados me hace temer cómo mi boca podría terminar así en el futuro. Por lo tanto, prometo dar todos los pasos que pueda para mejorar mi higiene bucal. ! Comeré y beberé cosas beneficiosas para mis dientes, por ejemplo, y aprenderé las mejores técnicas para cepillarme los dientes".
+ VIETold.1050.desc:0 "Ver a todas esas personas mayores con sus encías horribles y dientes cariados me hace temer cómo podría terminar mi boca en el futuro. Por lo tanto, prometo dar todos los pasos que pueda para mejorar mi higiene bucal. !Comeré y beberé cosas beneficiosas para mis dientes! por ejemplo, y aprenderé las mejores técnicas para cepillarme los dientes."
  VIETold.1050.a:0 "Incluso cuando sea viejo y esté débil, TENDRE buena dentadura."
  VIETold.1051.t:0 "Sangrado de dientes"
- VIETold.1051.desc:0 "Estaba demasiado obsesionado con la limpieza de mis dientes hoy y me cepillé con demasiada intensidad, lo que resultó en un leve sangrado de mis encías. Como resultado, mis dientes están cubiertos de sangre. Desafortunadamente, Tengo que reunirme con mi corte pronto, a pesar de que parezco un monstruo sediento de sangre devorador de hombres".
- VIETold.1051.a:0 "Aunque sea incómodo, no tengo otra opción".
- VIETold.1051.b:0 "Afortunadamente, me veo hermosa pase lo que pase".
- VIETold.1051.c:0 "¡Esto solo mejorará mi apariencia temible!"
+ VIETold.1051.desc:0 "Estaba demasiado obsesionado con la limpieza de mis dientes hoy y me cepillé con demasiada intensidad, lo que resultó en un leve sangrado de mis encías. Como resultado, mis dientes están cubiertos de sangre. Desafortunadamente, tengo que reunirme con mi corte pronto, a pesar de que parezco un monstruo sediento de sangre devorador de hombres."
+ VIETold.1051.a:0 "Aunque sea incómodo, no tengo otra opción."
+ VIETold.1051.b:0 "Afortunadamente, me veo hermosa pase lo que pase."
+ VIETold.1051.c:0 "¡Esto solo mejorará mi temible apariencia!"
  VIETold.1052.t:0 "¿Cepillo de dientes sucio?"
- VIETold.1052.desc:0 "Por cierto, [ROOT.Char.GetFirstNameNoTooltip], accidentalmente dejé caer tu cepillo de dientes en el orinal", dice [scope_VIET_toothbrush_pranker.GetTitledFirstName]. Después de que me detuve en estado de shock, el cortesano dice: "Solo estaba bromeando. ¡Jaja! Deberías haberte visto la cara. No te preocupes, tu cepillo de dientes está bien".\n\n[scope_VIET_toothbrush_pranker.GetFirstNameNoTooltip] ha estado tirando muchas bromas inofensivas últimamente, por lo que es probable que [scope_VIET_toothbrush_pranker.GetSheHe] solo estuviera bromeando de nuevo, y una investigación más profunda sugiere que mi cepillo de dientes está tan limpio como siempre. Sin embargo, una parte de mí todavía está insegura..."
- VIETold.1052.a:0 "Me siento inquieto. Pero... está bien."
- VIETold.1052.b:0 "¡Tíralo! ¡Consigue un cepillo de dientes nuevo!"
- # Versión 1.4.1 Comience aquí: deje este comentario aquí
+ VIETold.1052.desc:0 ""Por error, [ROOT.Char.GetFirstNameNoTooltip], accidentalmente dejé caer tu cepillo de dientes en el orinal," dice [scope_VIET_toothbrush_pranker.GetTitledFirstName]. Después de que me quedé en estado de shock, el cortesano dice: "Solo estaba bromeando. ¡Jaja! Deberías haberte visto la cara. No te preocupes, tu cepillo de dientes está bien"."\n\n[scope_VIET_toothbrush_pranker.GetFirstNameNoTooltip] ha estado haciendo muchas bromas inofensivas últimamente, por lo que es posible que [scope_VIET_toothbrush_pranker.GetSheHe] haya hecho alguna de verdad. Finalmente, estaba bromeando de nuevo, y una investigación más profunda afirma que mi cepillo de dientes está tan limpio como siempre. Sin embargo, una parte de mí todavía desconfía..."
+ VIETold.1052.a:0 "Me siento incómoda. Pero... está bien."
+ VIETold.1052.b:0 "¡Tirarlo! ¡Consigue un nuevo cepillo de dientes!"
+ # Version 1.4.1 Start Here - Please leave this comment here
  VIETold.1053.t:0 "¿Real o falso?"
- VIETold.1053.desc:0 "Un erudito viajero planteó una extraña pregunta cuando visitó mi corte, una que muchos de mis cortesanos debatieron largamente. La pregunta era: "¿Qué tiene más valor? ¿Una cosa real, o una falsificación que es indistinguible de la cosa real?""
+ VIETold.1053.desc:0 "Un viajero erudito planteó una extraña pregunta cuando visitó mi corte, una que muchos de mis cortesanos debatieron largamente. La pregunta era: "¿Qué tiene más valor? ¿Una cosa real, o una falsificación que es indistinguible de la cosa real?""
  VIETold.1053.a:0 "La cosa real - es la cosa original, genuina, después de todo."
  VIETold.1053.b:0 "La falsificación: se esfuerza tanto por ser real que la supera."
  VIETold.1053.c:0 "Ambos tienen el mismo valor, dado que son funcionalmente iguales."
  VIETold.1053.d:0 "Qué pregunta tan estúpida. ¿Parezco una especie de filósofo?"
  VIETold.1054.t:0 "Grupo"
- VIETold.1054.desc:0 "Me di cuenta de que varias personas miraban mi cabello hoy. ¿Había algo mal?\n\n"¡Oh, hay algo en tu cabello!" dice uno de mis sirvientes.\n\ Muevo mis dedos en el lugar que señaló mi sirviente. Y he aquí, había un pequeño montón de tierra allí. Eso debe haber sido lo que todos estaban mirando. Qué curioso que nadie se molestó en señalarme".
- VIETold.1054.a:0 "Me pregunto cómo llegó ahí".
+ VIETold.1054.desc:0 "Me di cuenta de que varias personas miraban mi cabello hoy. ¿Había algo mal?\n\n"¡Oh, hay algo en tu cabello!" dice uno de mis sirvientes.\n\nMuevo mis dedos en el lugar que señaló mi sirviente. Y he aquí, que había un pequeño montón de tierra en mi pelo. Eso debe haber sido lo que todos estaban mirando. Qué curioso que nadie se molestó en decírmelo antes."
+ VIETold.1054.a:0 "Me pregunto cómo llegó ahí."
  VIETold.1055.t:0 "Ojos"
- VIETold.1055.desc:0 "Hoy temprano escuché que hay otras razas similares a los humanos, pero en lugar de tener dos ojos como nosotros, tienen uno o tres. Se dice que viven en los rincones más alejados del mundo, en tierras salvajes y bárbaras".
- VIETold.1055.a:0 "¿Por qué los humanos tienen dos ojos, ahora que lo pienso?"
- VIETold.1055.b:0 "Son cuentos fantasiosos, conjurados por narradores para entretener."
+ VIETold.1055.desc:0 "Hoy temprano escuché que hay otras razas similares a los humanos, pero en lugar de tener dos ojos como nosotros, tienen uno o tres. Se dice que viven en los rincones más alejados del mundo, en tierras salvajes y bárbaras."
+ VIETold.1055.a:0 "Ahora que lo pienso...¿Por qué los humanos tienen dos ojos?"
+ VIETold.1055.b:0 "Son cuentos fantasiosos, inventados por narradores para entretener."
  VIETold.1056.t:0 "Una extraña sensación"
- VIETold.1056.desc:0 "Esa extraña sensación vuelve a mí, de repente.\n\nSiento como si en algún lugar alguien hubiera dicho algo poco halagador sobre mí."
+ VIETold.1056.desc:0 "De repente, esa extraña sensación vuelve a mí.\n\nSiento como si en algún lugar alguien hubiera dicho algo poco halagador sobre mí."
  VIETold.1056.a:0 "Mmm..."
- VIETold.1057.t:0 "Atrapado entre"
- VIETold.1057.desc:0 "Me preguntaba por qué mis cortesanos me estaban mirando de forma extraña hoy. Uno de mis sirvientes señaló que tenía un trozo grande y notable de comida encajado entre mis dientes frontales. No es de extrañar, debo haber mirado ¡ridículo!"
+ VIETold.1057.t:0 "Encajado entre"
+ VIETold.1057.desc:0 "Me preguntaba por qué mis cortesanos me estaban mirando hoy de forma extraña. Uno de mis sirvientes me señaló que tenía un trozo grande y notable de comida entre mis dientes frontales. No es de extrañar, debería haber mirado ¡qué ridículo!"
  VIETold.1057.a:0 "Ahora, ¿dónde está mi palillo?"
  VIETold.1058.t:0 "Paso del tiempo"
- VIETold.1058.desc:0 "Hoy estaba de un humor bastante melancólico y reflexionaba sobre cómo los años parecen haber pasado tan rápido. Uno tras otro, no son más que un borrón de recuerdos confusos y desechados.\n\nUna vez Hubo un tiempo en que era un niño joven e inocente.\n\nAhora solo estoy triste y viejo".
- VIETold.1058.a:0 "Ay".
+ VIETold.1058.desc:0 "Hoy estaba de un humor bastante melancólico y reflexionaba sobre cómo los años parecen haber pasado tan rápido. Uno tras otro, no son más que un borrón de recuerdos confusos y desechados.\n\nUna vez hubo un tiempo en que era un niño joven e inocente.\n\nAhora solo estoy triste y viejo."
+ VIETold.1058.a:0 "Ay."
  VIETold.1059.t:0 "¿Qué es eso?"
- VIETold.1059.desc:0 ""¡Dios mío!", exclamo.\n\nHay una pausa incómoda.\n\n"¿Quién cortó el queso?", exclamo.\n\nTodos miran alrededor nerviosos.\n\ n"Lo hice", admite un sirviente.\n\nLe digo: "La próxima vez, asegúrate de cortarlo en pedazos más pequeños, ¿de acuerdo? Es difícil comer queso si está en trozos gigantes como este".
- VIETold.1059.a:0 ""¡Sí, mi [ROOT.Char.GetLadyLord]!""
- # Versión 1.4.2 Comience aquí: deje este comentario aquí
- # Versión 1.4.5 Comience aquí: deje este comentario aquí
- VIETold.1060.t:0 "¡Ja, ja!"
- VIETold.1060.desc:0 ""¡No me hagas reír!", exclamo.\n\n[jokester.GetTitledFirstName] dice el chiste de todos modos, y casi me muero de la risa. Era un buen chiste, demasiado bueno en ¡hecho!"
+ VIETold.1059.desc:0 ""¡Dios mío!", exclamo.\n\nHay una pausa incómoda.\n\n"¿Quién cortó el queso?", exclamo.\n\nTodos miran alrededor nerviosos.\n\n"Lo hice yo", admite un sirviente.\n\nLe digo: "La próxima vez, asegúrate de cortarlo en pedazos más pequeños, ¿de acuerdo? Es difícil comer queso si está en trozos enormes como este.""
+ VIETold.1059.a:0 ""Sí mi [ROOT.Char.GetLadyLord]!""
+ # Version 1.4.2 Start Here - Please leave this comment here
+ # Version 1.4.5 Start Here - Please leave this comment here
+ VIETold.1060.t:0 "¡Jaja!"
+ VIETold.1060.desc:0 ""¡No me hagas reír!" exclamo.\n\n[jokester.GetTitledFirstName] cuenta el chiste de todos modos, y casi me muero de la risa. Era una buena broma, ¡demasiado buena de hecho!"
  VIETold.1060.a:0 "¡Dilo de nuevo!"
  VIETold.1061.t:0 "Luz del sol"
- VIETold.1061.desc:0 "Estoy descansando en una silla que está junto a una ventana de mi habitación. La luz del sol se filtra a través de la ventana y brilla sobre mí. Siento su calidez".
+ VIETold.1061.desc:0 "Estoy descansando en una silla que está junto a una ventana de mi habitación. La luz del sol se filtra a través de la ventana y brilla sobre mí. Siento su calidez."
  VIETold.1061.a:0 "Ah..."
  VIETold.1062.t:0 "¡Ese recuerdo no!"
- # Versión 1.4.6 Comience aquí: deje este comentario aquí
- VIETold.1062.desc:0 "Estaba ocupándome de mis propios asuntos, haciendo cosas importantes que cualquier [ROOT.Char.GetTitleAsNameNoTooltip] haría. Y luego, de la nada, se tejió en mi mente.\n\nDe repente recordé algo extremadamente vergonzoso que hice hace años".
- VIETold.1062.a:0 "Por favor, no, ¿por qué tengo que recordar eso..."
+ # Version 1.4.6 Start Here - Please leave this comment here
+ VIETold.1062.desc:0 "Estaba ocupado de mis propios pensamientos. Haciendo cosas importantes propias de un [ROOT.Char.GetTitleAsNameNoTooltip]. Y luego, de la nada, se tejió otro pensamiento en mi mente.\n\nRecordé algo extremadamente vergonzoso que hice hace años."
+ VIETold.1062.a:0 "Por favor, no, ¿por qué tengo que recordar eso...?"
  VIETold.1063.t:0 "La secuela"
- VIETold.1063.desc:0 "¡Finalmente conseguí el libro que quería desde hace mucho tiempo! Es la continuación de una gran historia que encontré hace un tiempo. Ahora es el momento de disfrutar del desarrollo de personajes, diálogos atractivos, reflexiones temas y profundo simbolismo".
+ VIETold.1063.desc:0 "¡Finalmente obtuve el libro que quería desde hace mucho tiempo! Es la continuación de una gran historia que me leí hace un tiempo. Ahora es el momento de disfrutar del desarrollo de personajes, diálogos atractivos, pensamientos estimulantes, temas y profundo simbolismo."
  VIETold.1063.a:0 "Nada podría ser mejor."
  VIETold.1064.t:0 "Bostezando"
  VIETold.1064.desc:0 "Vi a uno de mis sirvientes bostezando. ¡Ahora yo también tengo ganas de bostezar!"
- VIETold.1064.a:0 "Es interesante cómo si alguien bosteza, otras personas cercanas a menudo también quieren hacerlo".
+ VIETold.1064.a:0 "Es interesante que si alguien bosteza, los que lo ven también quieren hacerlo."
  VIETold.1065.t:0 "Palabras dulces"
- VIETold.1065.desc:0 "Hoy me visita un viajero de una tierra lejana. Parece que mi reputación me precede, porque después de intercambiar cumplidos con el viajero, dijo en broma: "Oí hablar de ti y de tus dulces palabras... ""
+ VIETold.1065.desc:0 "Hoy me visita un viajero de una tierra lejana. Parece que mi reputación me precede, porque después de intercambiar cumplidos con el viajero, dijo en broma: "Oí hablar de ti y de tus bellas palabras...""
  VIETold.1065.a:0 "¿Es así? ¿Soy tan buen orador?"
  VIETold.1066.t:0 "Gusano"
- VIETold.1066.desc:0 "Ayer asistí a la actuación de un músico local. Hoy me he dado cuenta de que una de las canciones que cantó el músico no me la puedo quitar de la cabeza".
- VIETold.1066.a:0 "¡Es tan pegadizo!"
+ VIETold.1066.desc:0 "Ayer asistí a la actuación de un músico local. Hoy me he dado cuenta de que una de las canciones que cantó el músico no me la puedo quitar de la cabeza."
+ VIETold.1066.a:0 "¡Es tan pegadiza!"
  VIETold.1067.t:0 "Caminando con [coin_loser.GetTitledFirstNameNoTooltip]"
- VIETold.1067.desc:0 "Estaba afuera dando un paseo con [coin_loser.GetTitledFirstName] en el jardín. Mientras caminaba detrás de [coin_loser.GetHerHim], noté que una moneda de oro se cayó del bolsillo de [coin_loser.GetHerHis]. [coin_loser .GetTitledFirstName] no se dio cuenta y entró. ¿Debería decírselo a [coin_loser.GetHerHim]?"
- VIETold.1067.a:0 "Te lo devolveré. Es lo correcto".
- VIETold.1067.b:0 "Nadie me verá llevándolo, ¡los buscadores se quedan!"
- VIETold.1067.c:0 "Déjalo ahí. ¿A quién le importa? Es solo una moneda".
+ VIETold.1067.desc:0 "Estaba dando un paseo con [coin_loser.GetTitledFirstName] en el jardín. Mientras caminaba detrás, me di cuenta de que una moneda de oro se cayó de [coin_loser.GetHerHis] bolsillo. [coin_loser.GetTitledFirstName] no se dio cuenta, y ya ha entrado a la casa. ¿Qué debo decir[coin_loser.GetHerHim] sobre la moneda?"
+ VIETold.1067.a:0 "Se la devolveré. Es lo correcto."
+ VIETold.1067.b:0 "Nadie me verá quedármela, ¡el que la encuentra se la queda!"
+ VIETold.1067.c:0 "Déjala ahí. ¿A quién le importa? Es solo una moneda."
  VIETold.1068.t:0 "Condena injusta"
- VIETold.1068.desc:0 "El año pasado, ordené la ejecución de un hombre que supuestamente cometió una serie de crímenes atroces. ¡Nuevos desarrollos revelan que en realidad era inocente! Aunque el verdadero criminal ha sido capturado, los plebeyos están furiosos. ya que este hombre era conocido en toda la tierra por sus buenas obras".
+ VIETold.1068.desc:0 "El año pasado, ordené la ejecución de un hombre que supuestamente cometió una serie de crímenes atroces. ¡Nuevos desarrollos revelan que en realidad era inocente! Aunque el verdadero criminal ha sido capturado, los plebeyos están furiosos. Ya que este hombre era conocido en toda la zona por sus buenas obras."
  VIETold.1068.a:0 "¡Me consideran un tirano! ¡Pero cometí un error!"
  VIETold.1069.t:0 "¡Pica, pica, pica!"
- VIETold.1069.desc:0 "De repente me pica mucho la cabeza. Me pica muchísimo. Estoy en medio de una reunión ahora mismo y no debería rascarme la picazón".
+ VIETold.1069.desc:0 "De repente me pica mucho la cabeza. Me pica muchísimo. Estoy en medio de una reunión ahora mismo y no debería rascarme la cabeza tanto."
  VIETold.1069.a:0 "¡Tengo que rascarme la cabeza!"
- VIETold.1069.b:0 "Intentaré ignorarlo. ¡ARGH, no puedo ignorarlo, lo rascaré!"
- VIETold.1070.t:0 "Un regalo atractivo"
+ VIETold.1069.b:0 "Trataré de ignorar - ARGH, no puedo ignorarlo, ¡la rascaré!"
+ VIETold.1070.t:0 "Un atractivo regalo"
  VIETold.1070.desc:0 "Algunos comerciantes locales me han regalado algunos jabones y cosméticos raros y especiales que vienen del Levante. Los principales ingredientes son los dátiles y las semillas de dátiles."
  VIETold.1070.a:0 "Me serán muy útiles. ¡Gracias!"
- VIETold.1070.b:0 "¡No me asociaré con tanta vanidad!"
+ VIETold.1070.b:0 "¡No me asociaré a tanta vanidad!"
  VIETold.1070.c:0 "Seguro que mi consorte lo apreciará."
  VIETold.1070.d:0 "Seguro que mis consortes lo agradecerán."
- VIETold.1070.info:0 "#énfasis Contexto histórico:#! Aunque es conocida por sus frutos, la planta del dátil también ha tenido otros usos durante siglos. Se ha utilizado para hacer jabones, cosméticos, aceite, alimento para animales, decoración y más".
+ VIETold.1070.info:0 "#emphasis Contexto histórico:#! Aunque es conocida por sus frutos, la planta del dátil también ha tenido otros usos durante siglos. Se ha utilizado para hacer jabones, cosméticos, aceite, alimento para animales, decoración y más."
  VIETold.1071.t:0 "Un caballo extraño"
- VIETold.1071.desc:0 "Mientras me preparo para montar mi casa, me doy cuenta de que me está mirando. O, al menos, creo que me está mirando. Algo en eso... esos ojos, taladrándome... esos ojos, esos ojos oscuros, negros, fríos y vacíos... mirándome fijamente..."
- VIETold.1071.a:0 "Um... correcto... avanzando..."
+ VIETold.1071.desc:0 "Mientras me preparo para montar en mi montura, me doy cuenta de que me está mirando. O, al menos, creo que me está mirando. Algo en esos... esos ojos, taladrándome... esos ojos, esos ojos oscuros, negros, fríos y vacíos... mirándome fijamente..."
+ VIETold.1071.a:0 "Um... correcto... avancemos..."
  VIETold.1072.t:0 "Cubeb"
- VIETold.1072.desc:0 "Me dieron un poco de cubeb como regalo. Se dice que esta especia extraña proviene de las islas al este de Indostán. Muchos hombres eruditos dicen que tiene dos propósitos principales: uno, ahuyentar a los demonios y otro tipo de espíritus malévolos, y dos, para aumentar la fertilidad de uno. Los eruditos y cocineros de la corte conocen la mejor manera de lograr uno u otro, pero no ambos ".
- VIETold.1072.a:0 "Lo usaré para mejorar mi destreza sexual".
+ VIETold.1072.desc:0 "Me dieron un poco de cubeb como regalo. Se dice que esta especia extraña proviene de las islas al este de Indostán. Muchos eruditos dicen que tiene dos propósitos principales: uno, ahuyentar a los demonios y otro tipo de espíritus malévolos, y dos, para aumentar la fertilidad. Los eruditos y cocineros de la corte conocen la mejor manera de lograr uno u otro, pero no ambos."
+ VIETold.1072.a:0 "Lo usaré para mejorar mi destreza sexual."
  VIETold.1072.b:0 "Deseo hacer uso de sus habilidades para combatir el mal."
- VIETold.1072.info:0 "#énfasis Contexto histórico:#! #italic Piper cubeba#!, más conocida como cubeb, es una especia relacionada con la pimienta que se cultiva principalmente en Java y Sumatra. Desde allí, se extendió a China y Oriente Medio en el período medieval temprano, y llegó a Europa a finales de la era medieval. Se consideraba que tenía propiedades afrodisíacas además de ser repulsivo para los demonios ".
+ VIETold.1072.info:0 "#emphasis Contexto histórico:#! #italic Piper cubeba#!, más conocida como cubeb, es una especia relacionada con la pimienta que se cultiva principalmente en Java y Sumatra. Desde allí, se extendió a China y Oriente Medio a principios del período medieval y llegó a Europa a finales de la era medieval. Se consideraba que tenía propiedades afrodisíacas además de ser repulsivo para los demonios."
  VIETold.1073.t:0 "Locura por los perfumes"
- VIETold.1073.desc:0 "El Profeta (la paz sea con él) recomendó que usáramos perfume, ya que es agradable y ayuda en la limpieza. Sin embargo, [perfume_crazy.GetTitledFirstName] ha ido demasiado lejos últimamente, aplicando capas y capas de perfume en [perfume_crazy.GetHerHis] - todos pueden olerlo desde habitaciones y habitaciones de distancia. ¿Quién querría gastar tanto dinero en estos lujos?"
+ VIETold.1073.desc:0 "El Profeta (la paz sea con él) recomendó que usáramos perfume, ya que es agradable y ayuda a la limpieza. Sin embargo, [perfume_crazy.GetTitledFirstName] ha ido demasiado lejos últimamente, aplicando capas y capas de perfume en su [perfume_crazy.GetHerHis] - todos pueden olerlo desde habitaciones y estancias de distancia. ¿Quién querría gastar tanto dinero en estos lujos?."
  VIETold.1073.a:0 "¡Yo no, desde luego! No soy vanidoso, después de todo."
  VIETold.1073.b:0 "Cada uno lo suyo. No debería preocuparme por los demás."
  VIETold.1074.t:0 "Hongos de la inmortalidad"
- VIETold.1074.desc:0 "Un viajero que una vez visitó China pasó recientemente por mi capital. Cuando vino a visitarme, me dio una gran bolsa de lamentables hongos. Al principio me insultaron, pero me explicó que estos son los #italic Hongos de la Inmortalidad#!, conocidos en el Lejano Oriente por sus propiedades medicinales milagrosas. Se dice que pueden prolongar la vida. Debo molerlos y beberlos con agua todas las mañanas".
+ VIETold.1074.desc:0 "Un viajero que una vez visitó China pasó recientemente por mi capital. Cuando vino a visitarme, me dio una gran bolsa de lamentables hongos. Al principio me sentí insultado, pero me explicó que estos son los #italic Hongos de la Inmortalidad#!, conocidos en el Lejano Oriente por sus propiedades medicinales milagrosas. Se dice que pueden prolongar la vida. Debo molerlos y beberlos con agua todas las mañanas."
  VIETold.1074.a:0 "Ah... ¡Ya veo! ¡Muchas gracias!"
- VIETold.1074.info:0 "#énfasis Contexto histórico:#! #italic Ganoderma lingzhi#!, mejor conocido como #italic lingzhi#! (el nombre chino) o #italic reishi#! (el nombre japonés), es un hongo que ha sido muy apreciado y reverenciado en la medicina tradicional asiática como los "hongos de la inmortalidad" durante más de dos mil años. Actualmente, no hay pruebas concluyentes de su eficacia médica".
- # Versión 1.4.7 Comience aquí: deje este comentario aquí
-
-
+ VIETold.1074.info:0 "#emphasis Contexto histórico:#! #italic Ganoderma lingzhi#!, mejor conocido como #italic lingzhi#! (su nombre en chino) o #italic reishi#! (el nombre japonés), es un hongo que ha sido muy apreciado y reverenciado en la medicina tradicional asiática como los "hongos de la inmortalidad" durante más de dos mil años. Actualmente, no hay pruebas concluyentes de su eficacia médica."
+ # Version 1.4.7 Start Here - Please leave this comment here
  VIETold.1075.t:0 "xxxxx"
  VIETold.1075.desc:0 "xxxxx"
  VIETold.1075.a:0 "xxxxx"
@@ -1645,226 +1643,225 @@
  VIETold.2128.t:0 "Luz de los Ancestros"
  VIETold.2128.desc:0 "¡Anoche tuve un sueño maravilloso! Me encontré disfrutando de un reino de luz infinita - nada más que luz - y vi muchos hombres y mujeres, algunos de los cuales reconocí como familiares fallecidos. Incluso aquellos que no reconocí sabía que eran antiguos ancestros. No hablamos o interactuamos directamente, simplemente disfrutaba de su benevolente presencia."
  VIETold.2128.a:0 "Tras despertarme, me sentía bendecido."
- # Versión 1.1.4 Comience aquí - Por favor abandonar aquí
-# Versión 1.3.1 Comience aquí - Por favor abandonar aquí
- VIETold.2129.t :0 " Amor perdido "
- VIETold.2129.desc .male:0 " Último noche en que apareció en mi sueño , y nosotros reía y bailaba y hablaba sobre nada en particular Mi corazón estaba latiendo tan rápido , porque estaba tan nervioso _ aún entusiasmado que incluso cuando desperté pude _ _ todavía sentir eso _ Ha pasado tanto tiempo , tantos _ años ya que nosotros ultimo conocido , todavía incluso ahora sigo _ pensar sobre el : mi primero amor ."
- VIETold.2129.desc .female:0 " Último noche ella apareció en mi sueño , y nosotros reía y bailaba y hablaba sobre nada en particular Mi corazón estaba latiendo tan rápido , porque estaba tan nervioso _ aún entusiasmado que incluso cuando desperté pude _ _ todavía sentir eso _ Ha pasado tanto tiempo , tantos _ años ya que nosotros ultimo conocido , todavía incluso ahora sigo _ pensar sobre ella : mi primero amor ."
-VIETold.2129.a:0 " Nosotros Eran tan jóvenes e inocentes ".
- VIETold.2130.t :0 "Amor joven"
- VIETold.2130.desc :0 " Ocioso sentarse en la corte una día cuando veo _ una de mi joven servicio curioso a través de el pasillo a la una de mi sirvientas por lejos también largo _ Ella se da cuenta y lo mira , confundido . inmediatamente _ idiotas su cabeza hacia otro lado , avergonzado , torpemente evitando su mirada _ Es antiguo noticias que encuentra _ su atractivo pero no tiene elaboró el _ coraje a decir ella _ Mientras tanto , aunque ella es un inteligente chica quién encuentra a él agradable , ella es también distraído y ajeno saber ningún mejor ."
-VIETold.2130.a:0 " Él encontrar coraje pronto , o ella un cerebro . será trabajar fuera ."
- VIETold.2130.b :0 " Tonto niño y niña _ Tal fantasioso , estúpido , fugaz sentimientos !"
- VIETold.2130.c :0 "Ah , ser joven otra vez ! ¡Cómo lo extraño ! quien sabe qué voluntad pasar ?"
- VIETold.2131.t :0 "Buen humor "
- VIETold.2131.desc :0 "Yo no saber por qué , pero me siento muy feliz e inspirado hoy ".
-VIETold.2131.a:0 " Es un buen sentimiento !"
- VIETold.2132.t :0 " Cangrejo en el barro "
- VIETold.2132.desc :0 " Vi un cangrejo en el lodo la otro día ."
-VIETold.2132.a:0 " ¡ Criaturas horribles ! Evito a ellos siempre que puedo".
- VIETold.2133.t :0 " Celoso Guardia "
- VIETold.2133.desc :0 "Estoy en la ciudad una día cuando escucho un guardia _ gritar : "¡DETÉNTE, HAS VIOLADO LA LEY!"\n\ nCon sobrehumano velocidad , atrapa a un ladrón y arrastra al criminal a cárcel ".
-VIETold.2133.a:0 " La mayoría notable !"
- VIETold.2133.b :0 " Impresionante . Recompensa la Guardia por esto ."
- VIETold.2134.t :0 " ¡ Inapropiado !"
- VIETold.2134.desc :0 "Lo hice no aprobar de lo que [ scope_VIET_inapropiado_cortesano.GetTitledFirstName ] dijo . Eso era vulgar e inapropiado por la situación ".
-VIETold.2134.a:0 " Hice mi postura claro _ Cómo decepcionante !"
- VIETold.2134.b :0 " Insinué eso puede que tener estado inadecuado ".
- VIETold.2134.c :0 "Lo hice no decir cualquier cosa sobre eso por ahora ."
- VIETold.2135.t :0 " Desamor "
- VIETold.2135.desc :0 "Soy entretenido alguno importante miembros de un cercano ciudad hoy - ellos incluir funcionarios de alto rango , comerciantes , académicos y más. me doy cuenta entre a ellos es un joven hombre , guapo y de bueno corazón , todavía claramente desamparado y perturbado . " Dejar él sea," uno de su compañeros susurros a mi "Él es melancolía porque de una mujer !""
-VIETold.2135.a:0 " Qué ¡ tontería ! configuraré el _ la cabeza del muchacho derecha ".
- VIETold.2135.b :0 " Déjame razonar con el _ el amor no es todos allá es a vida ."
- VIETold.2135.c :0 " Qué ¡Ay ! El amor es cruel. puedo relacionarme con a él bien ."
- VIETold.2135.d :0 " ¿ Mujeres ? ¡ Bah! Necesita a aprender ellos son nada pero problemas ".
- VIETold.2135.e :0 " Tal vez pueda ofrecer a él consejo de una dama perspectiva ".
- VIETold.2135.tooltip :0 " Chatearé con este joven hombre , y tal vez ayuda a él encontrar una manera a superar su penas ".
- VIETold.2136.t :0 " Desamor "
- VIETold.2136.desc :0 "Mientras chateo con la joven hombre , el trata de jugar tímido pero no poder negar que su corazón es roto _ no puedo determinar si porque la chica rechazado el , es con otro hombre , muerto , o que alguno otro calamidad sucedió , pero eso es definitivamente lo hará nunca estar con ella _ claramente el es enamorado , y el chica seguramente parece como un verdadero impresionante mujer valioso de amor _ Qué debo decir _ él ?"
-VIETold.2136.a:0 " Hay muchos mujeres afuera allí _ Seguramente lo harás reunir otro !"
- VIETold.2136.b :0 " Encuentra una tetona moza a satisfacer tus deseos carnales por ahora ."
- VIETold.2136.c :0 " Vamos su sin límites el amor te inspira hacerlo bien _ hechos !"
- VIETold.2136.d :0 " Eres un consentido ¡ idiota ! hay peores _ problemas afuera allí !"
- VIETold.2137.t :0 " El Emperatriz "
- VIETold.2137.desc :0 "China, que la mayoría agosto imperio , siempre ha sido una fuente de rumores de dudoso fiabilidad _ Últimamente , viajando comerciantes y aventureros relé cuentos sobre cómo la Actual Emperatriz de China es tan poderosa y temible como ella es hermosa y encantadora . ella tiene un fuerte agarre sobre la emperador y es la verdadera autoridad detrás todo , incluso si ella solo reglas de la sombras ".
-VIETold.2137.a:0 "¡Un cuento fantástico ! ¡ Incluso una broma ! "
- VIETold.2137.b :0 " Extraño cosas tener ocurrió en China".
- VIETold.2137.c :0 " Es es bueno mujeres tener más poder ".
- VIETold.2137.d :0 "Cuéntame más sobre este grande y poderoso mujer ".
- VIETold.2138.t :0 " Polo chino "
- VIETold.2138.desc :0 "El polo ha sido popular entre la gente [ ROOT.Char.GetCulture.GetName ] por muchos generaciones _ Eso no es una sorpresa a oír que la gente de China también disfrutar eso _ Aunque mujeres con frecuencia jugar al polo en muchos partes de la mundo , algunos reclamar Chino mujeres como la mejores polistas del _ _ mundo ! Eso es dijo concubinas y princesas imperiales golpear regularmente al hombres de la corte imperial en el deporte".
-VIETold.2138.a:0 "Me pregunto qué trucos y tecnicas usan ".
- VIETold.2138.b :0 "¡Ja! Como si ningún mujer podría hacer eso ! "
- VIETold.2138.c :0 " Seguramente nuestro ¡Las mujeres son igual de buenas !"
- VIETold.2138.d : 0 "Yo tampoco soy fanático del polo camino ."
- VIETold.2138.e :0 " Esos mujeres debería estar avergonzado , ¡ tan poco femenino !"
-VIETold.2138.info:0 "# énfasis Histórico Contexto : # ! Contrario a historia popular común representaciones , la estado de mujeres en China, incluso si nunca ideal, ha variado muy sobre la siglos _ En la China Tang, las mujeres ansiosamente jugó al polo junto a hombres (un riguroso , incluso peligroso deporte ecuestre originario de Asia Central o Irán ). una variedad de polo popular entre las mujeres Tang involucrado burros en cambio de caballos ; una mujer noble , Cui Shi, estaba tan obsesionada con el deporte que arqueólogos fundar la restos de burros en ella tumba ".
- VIETold.2139.t :0 " Tempestad "
- VIETold.2139.desc :0 " El Oceano aguas rabia y rabia y rabia a mi alrededor en mi sueño , una serie enloquecedora de la fuerza bruta de de la naturaleza destrucción , y estoy desenredado , impotente , como estoy en la naturaleza misericordia _ Qué es humanidad sino una mota en el cosmos cuando comparado a todos esto ?"
-VIETold.2139.a:0 " Incluso esto lo haré ¡ superar !"
- VIETold.2139.b : 0 " Somos insignificantes a el cosmos!"
- VIETold.2140.t :0 "Una dieta Sin que Carne "
- VIETold.2140.desc :0 " Tengo Escuchó sobre gente en el oriental reinos En Vivo en un vegetariano dieta _ Que es , ellos rechazar consumir carne , a menudo por moral o religioso razones _ Claramente hay muchos _ diferente costumbres alrededor la mundo , pero a subsistir sin que ningún carne por su completo vida ? hay _ gente quién haría Vamos a longitudes tan extremas por sus creencias ? Lo hace sus alimento incluso sabe bien ?"
-VIETold.2140.a:0 " Tal restricción es admirable!"
- VIETold.2140.b :0 " Nosotros debería comer carne ! Algunos son presas , otros son depredadores ".
- VIETold.2140.c :0 " Solo campesinos no poder solventar carne ".
- VIETold.2140.d :0 " Seguidores de la fe [ ROOT.Char.GetFaith.GetAdjective ] evitar alguno Las carnes también " .
- VIETold.2140.e :0 " Las costumbres son diferentes todos sobre la mundo ."
- VIETold.2141.t :0 " Islas Benditas "
- VIETold.2141.desc :0 "Un viajero es obsequiándome con _ historias , y uno despierta mi interés _ el escucho de alguien quién Escuchó de alguien más quién Escuchó de alguien más quién conocí a un viajero quien alguna vez viajo sur a lo largo de los mares y llegó a un pequeño pero hermoso isla , un paraiso dónde allá es siempre Fruta ser encontrado _ en árboles , y el habitantes En Vivo pacífico vive libre de enfermedad y violencia ”.
-VIETold.2141.a:0 " Un cuento improbable , pero un entretenido una sin embargo ."
- VIETold.2141.b :0 " Quizás una día lo haré visitado estas bendecido islas ".
- VIETold.2141.c :0 "Me pregunto cómo sus sociedad es estructurado ".
- VIETold.2142.t :0 " Menta aliento "
- VIETold.2142.desc : 0 " Hay esos que después de comer prefieren para consumir un poco de menta hojas antes de ellos limpio sus dientes en el tarde _ tengo _ sólo acabado cena y estoy preparando por cama , pero todavía tener algo de tiempo para tomar un poco de menta primero _ ¿Dónde estoy parado ? este importante importa ?"
-VIETold.2142.a:0 "Me gusta tener alguno menta después de las comidas . Es refrescante ".
- VIETold.2142.b :0 " Por qué la ¿ Necesitas ? Dientes limpieza es suficiente ".
- VIETold.2142.c :0 "¡Bah! ¿Quién se molesta ? Un desperdicio de tiempo para la vanidoso ."
- VIETold.2142.d :0 " Prefiero usando otro refrescante hierbas en realidad ."
- VIETold.2143.t :0 " Sueños felices "
- VIETold.2143.desc :0 "Me caí dormido y sueño agradable sueños , sueños que fueron feliz y levantado mi espíritus y me hizo sentir mejor sobre vida ."
-VIETold.2143.a:0 " Pero entonces me desperté _ _ Siguiente mañana ".
- VIETold.2144.t :0 " Malicioso rumores "
- VIETold.2144.desc :0 "Un poderoso mujer como yo tiene muchos _ enemigos , así que debo estar constantemente rodeado por robusto , fuerte guardaespaldas quién voluntad protégeme _ Eso ayuda que muchos de estas joven los hombres estan bien construido y estéticamente agradable _ Sin embargo , algunos la gente se está extendiendo malicioso rumores , diciendo estas fornido joven los hombres no son nada pero mi amantes !"
-VIETold.2144.a:0 " Absurdo . No soy que clasificar de mujer ".
- VIETold.2144.b :0 " Admirando ojo dulce es una cosa , las acciones son otra .”
- VIETold.2144.c :0 "No puedo culpa ellos ! Estas Los hombres son bastante atractivos ".
- VIETold.2144.d :0 " El otros son celosos de mi poder ".
- VIETold.2145.t :0 "Gustos en los hombres "
- VIETold.2145.desc :0 "Un joven mujer noble ha venido a mí hoy buscando consejo en qué clasificar de hombre hace un buen esposo _ como un altamente señora respetable yo mando mucho prestigio y ella quiere mi entrada en la asunto _ Después de discutir la mejor personalidad y antecedentes , ella me preguntó qué clasificar de hombre que encontré estéticamente agradable ".
-VIETold.2145.a:0 " Prefiero más delgado , más delgado tipos de hombres ".
- VIETold.2145.b :0 " Esos de promedio construir - ni extremo".
- VIETold.2145.c :0 " Solo la tipos voluminosos , fornidos y musculosos ".
- VIETold.2146.t :0 " Sueño de Vuelo"
- VIETold.2146.desc : 0 " Hay eruditos quién reclamar que una día , nosotros será capaz _ a hacer artilugios que permitir a nosotros a volar me gusta pájaros _ Otro pensadores decir este es un imposibilidad _ Últimamente , he estado reflexionando esto , y si tal cosa _ realmente es posible ."
-VIETold.2146.a:0 " Si podemos soñar _ eso , entonces eso es posible ."
- VIETold.2146.b :0 " Vamos seamos realistas _ aquí - no estamos _ pájaros ".
- VIETold.2146.c : 0 " Hacerlo sería una afrenta a la cielos ".
- VIETold.2146.d :0 " Es es teóricamente plausible - físicamente si nosotros solo ..."
- VIETold.2147.t :0 " Sueño "
- VIETold.2147.desc :0 " Aunque tuve una noche completa de descanso , el calidad de la dormir deber no tener estado bueno porque me siento _ soñoliento hoy _ Sin embargo , estoy programado a tener una reunión con mi consejo en aproximadamente mitad un hora , una yo seguramente no puede faltar".
-VIETold.2147.a:0 " Tengo a Quédate despierto !"
- VIETold.2147.b :0 "Un rápido una siesta , solo unos minutos , me hará bien ".
- VIETold.2148.t :0 "Dolor"
- VIETold.2148.desc :0 " El músculos en mi espalda sentir dolor todo de repente _ _ Ellos estaban bien esto mañana y nada más parece mal _ Qué yendo en ?"
-VIETold.2148.a:0 " Este será un problema . ¡ Ay !"
- VIETold.2149.t :0 " Pie calambre "
- VIETold.2149.desc :0 " Hoy conocí alguno importante huéspedes desde lejos _ tierra , pero en el medio de nuestro conversación , tengo un pie más terrible calambre ! Todo el mundo mirado alrededor mientras sostenía mi pie , gimiendo de dolor . Mi traductor embarazosamente explicado a la extranjeros qué estaba yendo en , y después ellos pareció a entender y con la misma torpeza tratar de consuélame ".
-VIETold.2149.a:0 " ¿Por qué yo?"
- VIETold.2150.t :0 " Recomendación de libros "
- VIETold.2150.desc :0 " Alguien es pidiéndome _ _ recomendaciones por bueno leyendo _ Por coincidencia , solo ayer terminé _ leyendo un maravilloso libro _ disfruté _ eso grandemente y lo haría recomendar mucho _ _ de gente _ Específicamente , el historia es un... "
-VIETold.2150.a:0 " Romance sentimental y dramático sobre el amor verdadero ".
- VIETold.2150.b : 0 " Cuento oscuro y arenoso con derramamiento de sangre y desviación ".
- VIETold.2150.c :0 " Fantástico aventura a extranjero tierras ".
- VIETold.2150.d :0 " Colección de entretenido anécdotas sobre diariamente vida ."
-# Versión 1.3.2 Comience aquí - Por favor abandonar aquí
- VIETold.2151.t :0 " Liberar "
- VIETold.2151.desc :0 "Como la noche caí , encontré yo solo en mi cámaras _ De repente - y yo no saber cómo eso Empecé - acabo de empezó llorando _ sollocé _ por qué deber tener estado horas , dejando afuera todos mi dolor y tristeza . Cuando eso se detuvo , me sentí un poco mejor ."
-VIETold.2151.a:0 " Pero cosas no son terminado _ No sin embargo , al menos ".
- VIETold.2152.t :0 " Té de marrubio "
- VIETold.2152.desc :0 "Estoy bebiendo un excelentemente té de hierbas preparado hecho usando la marrubio hierba , dijo a ayuda con digestión y respiración ”.
-VIETold.2152.a:0 "¡Ah! ¿Qué té relajante ".
-VIETold.2152.info:0 "# énfasis Histórico Contexto : # ! marrubio ( marrubio ) vulgar ) es un hierba nativa de la Mediterráneo y Asia occidental que es fundar a lo largo de mucho de Europa , norte África y partes de Asia Antiguo griego y romano escritores citan su uso como hierba medicinal , particularmente por respiratorio problemas me gusta tos _ Además siendo usó para el té , también tiene estado usó a hacer cerveza en partes de Inglaterra , y como una especie de repelente de insectos en partes de Italia ".
- VIETold.2153.t :0 " Té de ironwort "
- VIETold.2153.desc :0 " Para siglos , la pueblos de la Balcanes tener bebió lo que se llama té de montaña , hecho de la dulce saboreo hierro planta _ hoy estoy bebiendo alguno para relajarse".
-VIETold.2153.a:0 " Cómo dulce !"
- VIETold.2154.t :0 "Té negro"
- VIETold.2154.desc :0 "Té negro, también conocido como té rojo, es considerado un precioso mercancía en este parte de la mundo _ tengo _ estado dado varios bloques de seco té negro como regalo . se dicen _ venir de China por lo que su calidad debería ser muy alto , y puedo presentar estas a invitados en varios banquetes y funciones ".
-VIETold.2154.a:0 " Muy bien !"
- VIETold.2155.t :0 " También mucha sal"
- VIETold.2155.desc :0 " Agregué también mucho sal a mi comida y eso ahora sabe asqueroso . No a mencion eso es un desperdicio de bueno sal también " .
-VIETold.2155.a:0 " ¡Uf !"
- VIETold.2155.b :0 " Trataré de comer eso ."
- VIETold.2156.t :0 " Qué Tipo de ¿ Huevos ?"
- VIETold.2156.desc :0 " Mi cocinero me pregunta si prefiero _ duro huevos o pasado por agua huevos ".
-VIETold.2156.a:0 " Suave "
- VIETold.2156.b :0 " Difícil "
- VIETold.2156.c :0 " Lo que sea mi cocinero prefiere "
- VIETold.2156.d :0 " Quiero a abstenerse de huevos por un tiempo ".
- VIETold.2157.t :0 " Retirado marinero "
- VIETold.2157.desc :0 "Estoy asistiendo a un baile cuando conocí a la mayoría interesante compañero ! Se presenta como " un viejo capitán de mar y rover , ahora propietario de un barco y gordo mercader ." Alegre y cordial, me ofrece algunos consejo : " vamos abajo a el mar, párate un rato . Reloj la sol subir y ponerse. Pensar en la distante tierras a través de la agua .""
-VIETold.2157.a:0 " El hombre es amable , y el dos de a nosotros terminar hablando _ durante bastante tiempo ".
- VIETold.2158.t :0 " ¡ Achoo !"
- VIETold.2158.desc :0 " Mientras que en el medio de revisando alguno papeleo , el polvo deber tener conseguido a mi nariz y estornudé ! De acuerdo a a [ ROOT.Char.GetCulture.GetName ] superstición , si una estornuda en el medio de trabajo , eso es un mal presagio y uno deber interrumpir la caudal de trabajo - como por _ parada a beber alguno agua - a prevenir ningún desgracia de suceder".
-VIETold.2158.a:0 "Solo superstición . Sigamos trabajando " .
- VIETold.2158.b :0 " Es tonto , pero sólo para estar seguro Voy a beber alguno agua ."
- VIETold.2158.c :0 "¡Oh, no! Consígueme un poco ¡ Agua , rápido !"
- VIETold.2159.t :0 " Atchoo ?"
- VIETold.2159.desc :0 "[ ROOT.Char.GetCulture.GetName ] creencia sostiene eso que si una estornuda , eso medio alguien es hablando sobre tú detrás tu espalda estornudar un cierto Monto de veces, y usted saber qué ellos dijo . Una estornudar medio bueno cosas , dos medio malo cosas y tres medio ellos amor tu _ Hoy , mientras hablando con un numero de gente , me paso a estornudar muy en voz alta ..."
-VIETold.2159.a:0 " Una vez"
- VIETold.2159.b :0 " Dos veces"
- VIETold.2159.c :0 " Tres veces"
- VIETold.2160.t :0 "Baklava... ¡ tanto baklava!"
- VIETold.2160.desc :0 " Mis chefs prepararon un desordenado Monto de baklava para un pequeño banquete que estaba organizando , y terminé comiendo la mayoría de el baklava! Pocos pudo échame la culpa , sin embargo , es estaba muy buen baklava".
-VIETold.2160.a:0 " Estoy perdón sobre eso , pero estoy además no lo siento ."
- VIETold.2161.t :0 "Amor entre familia "
- VIETold.2161.desc :0 " Algunos de mi los cortesanos están inmersos en un intenso debate sobre cual clasificar de incestuoso matrimonio es la mejor _ Aunque todos son, de por supuesto , santo y grande andanzas cualquier [ ROOT.Char.GetFaith.GetAdjective ] creyente puede hacer , ciertamente hay bueno puntos y malos puntos por cada tipo _ yo decido obtener involucrado en el conversación - que pienso _ es la mejor tipo de incestuoso matrimonio ? "
-VIETold.2161.a:0 " Hermanos , de curso "
- VIETold.2161.a.tooltip :0 " Ser más cerca en edad , es más probable a obtener a lo largo de con una otro y entender cosas de la otros perspectiva ".
- VIETold.2161.b :0 " No sólo ningún ¡ hermanos - gemelos !"
- VIETold.2161.b .tooltip:0 " Los gemelos son más que hermano y hermana _ Ellos compartió un útero , vino dentro este mundo juntos , y así pertenecer juntos ".
- VIETold.2161.c :0 " Padre e hijo "
- VIETold.2161.c .tooltip:0 "Un niño deber comprender la fuente de sus origen , y el creador de vida deber crecer cerca a que cual ellos creado ".
- VIETold.2161.d :0 " Cualquiera incesto es bien !"
- VIETold.2161.d .tooltip:0 " Debe nosotros pelear ? Este dimes y diretes de tontos causas innecesarias divisiones _ Fueron civilizado , a diferencia de la sin educación , brutal bárbaros quién pensar estas tipos de los matrimonios son malos !"
-# Versión 1.3.3 Comience aquí - Por favor abandonar aquí
- VIETold.2162.t :0 " Tónico de hierbas "
- VIETold.2162.desc :0 "Un par horas hace que me detuve por un herbalista a compra alguno hierbas _ los hierbas que compré Este Dia debería ayúdame a quedarme saludable _ por el herbolario instrucciones , debo beber eso diariamente como un tónico a mantener mi salud hasta que me quede sin de eso ."
-VIETold.2162.a:0 " Con suerte este voluntad ¡ Ayúdame!"
- VIETold.2163.t :0 " Doctor charlatán "
- VIETold.2163.desc :0 " Un curandero que tenido estado notoriamente operando en el área por algún tiempo finalmente ha estado detenido por venta brebajes médicos fraudulentos , algunos conocido ser mortal . _ Correcto medicos tener formación médica adecuada en asignaturas me gusta la cuatro humores y los usos adecuados de hierbas , pero este una es un deseducado estafador quién quiere a engañar idiotas y tomen sus dinero ".
-VIETold.2163.a:0 " Enviar a él a prisión inmediatamente !"
- VIETold.2163.b :0 " Fuerza a él a beber una de su venenos !"
- VIETold.2163.c :0 " Vamos a él ir _ Él es aprendió su lección ."
- VIETold.2164.t :0 "Un debate médico"
- VIETold.2164.desc :0 "Estoy escuchando a un debate entre dos médicos locales en la mejor camino a tratar una cierta dolencia médica . aunque yo no comprender todo ellos discutir , su exponiendo en diversas teorías e ideas médicas , como la cuatro humores , como la varios organos de la cuerpo trabajo y que las hierbas son la mayoría efectivos , son extrañamente fascinante ".
-VIETold.2164.a:0 " Cómo aprendió ellos debe ser!"
- VIETold.2164.b :0 "" Eres ambas cosas incorrecto _ Galeno dijo que si una persona es tos , y sangre y bilis ...""
- VIETold.2165.t :0 " Demostración de cirugía "
- VIETold.2165.desc :0 "Un sabio hombre es de viaje mediante pueblo a intercambio conocimiento con la médicos en el área _ el es experto sobre tratamientos médicos , particularmente cirugía , y ha invitado varios de a nosotros a Vamos ver una demostración de su quirúrgico habilidades cuando opera _ en un menor noble _ Eso será un poco delicado asunto , sin embargo , como la mayoría cirugías tender ser _ ¿ Debo asistir ?"
-VIETold.2165.a:0 " He tratado con peor - esto sonidos educativo !"
- VIETold.2165.b :0 "Un [ ROOT.Char.GetTitleAsNameNoTooltip ] como yo tiene preocupaciones más apremiantes ".
- VIETold.2165.c :0 " Tal vez pueda incluso asistir su procedimiento con mi habilidades ".
- VIETold.2166.t :0 " Cómo Muchos Cucharas ?"
- VIETold.2166.desc :0 " Oigo una de mi servicio murmurando , "Oh querido , fue eso dos cucharas o tres ?"\n\ nCuando le pregunté su qué ella estaba hablando acerca de , ella me dice ella olvidó cómo mucha medicina ella necesario a tomar por su reciente estómago dolores ".
-VIETold.2166.a:0 "Eh... ni idea . ¡ Buena suerte !"
- VIETold.2166.b :0 " Eres claramente un idiota si tú se olvidó ".
- VIETold.2166.c :0 " En realidad , es debería ser cuatro cucharas ".
- VIETold.2167.t :0 " Un percance a base de hierbas "
- VIETold.2167.desc :0 " Hoy , [ scope_VIET_courtier_medicine_wrong.GetTitledFirstName ] accidentalmente tomó la medicina equivocada . Eso parece [ scope_VIET_courtier_medicine_ incorrecto.GetSheHe ] confundido dos diferente brebajes [ scope_VIET_courtier_medicine_wrong.GetSheHe ] fue supuesto a tomar en diferentes momentos y con diferentes dosis Uno solo puede esperar que no haya un lado negativo significativo . efectos a esto !"
-VIETold.2167.a:0 "¡Dios mío ! Eso sonidos desagradable ".
- VIETold.2168.t :0 "Caliente Caliente ¡ Caliente !"
- VIETold.2168.desc :0 " Estaba Bebiendo un té de hierbas que estaba quiso decir ser bueno _ por unos salud _ Sin embargo , bebí un poco también rápido y quemado mi lengua al frente de todos , lo que me llevó a derramar mi té en mi ropa , y eso a su vez condujo a alguno menor quemaduras en mi piel".
- VIETold.2168.a:0 " Es una de aquellos días , no es es ...?"
- VIETold.2169.t :0 " Para Cuarentena O ¿ No ?"
- VIETold.2169.desc :0 " Oigo a un erudito y a un comerciante debatir la méritos de cuarentenas durante las plagas. los erudito dice que sabio hombres y medicos tener siempre aconsejado que aquellos con contagioso enfermedades debe mantenerse _ lejos de la saludable _ los comerciante dice aislando comunidades voluntad destruir comercio oportunidades y hacer el asentamientos impotente y débil . ¿ Qué pienso ?"
- VIETold.2169.a:0 "Vivir con miedo es una idea tonta , ¡ simplemente confíe en [ ROOT.Char.GetFaith.HealthGodName ]!"
- VIETold.2169.b :0 " Nosotros debería atención la sabiduría de los eruditos cuando se trata de estas cosas ".
- VIETold.2169.c :0 "En total honestidad , no podría importarme menos sobre este debate".
- VIETold.2169.info:0 "# énfasis Histórico Contexto : # ! Contrario a la historia pop representaciones de la gente medieval como estúpida , educada eruditos , médicos y líderes de el tiempo utilizó una variedad de métodos a combate pandemias , incluyendo cuarentenas _ " Cuarentena " viene de la veneciano palabra quarantena , que significa " cuarenta días ", como el República de Venecia hizo cumplir un cuarenta día aislamiento de ningún llegando buques o gente durante la peste negra".
- VIETold.2170.t :0 "Dolor de garganta "
- VIETold.2170.desc :0 " Tenía dolor de garganta antes y tomó este brebaje de hierbas a hacer eso mejor como algunos sugirió a mi Aunque Voy a admitir mi garganta lo hace sentir mejor la medicina sabia _ repugnante !"
- VIETold.2170.a:0 " ¡Uf ! No puedo hacer ese gusto va lejos ."
- # Versión 1.3.4 Comience aquí - Por favor abandonar aquí
- VIETold.2171.t :0 " Qué es este brócoli?"
- VIETold.2171.desc :0 "Un viajero trajo con a ellos varios interesante alimentos a presente a mi tribunal _ Una de a ellos era una verdura llamada brócoli, que es no demasiado popular o bien conocido fuera de de Italia y ciertos partes de la Mediterráneo . Su cabeza es similar a coliflor , pero su provenir es más como espárragos ".
- VIETold.2171.a:0 "No , gracias . Este planta parece extraño ".
- VIETold.2171.b :0 " Fascinante . Voy a probar un poco".
- VIETold.2171.c :0 " Quiero a mantener alguno de este brócoli para mi cocineros usar ".
- VIETold.2171.info:0 "# énfasis Histórico Contexto : # ! El brócoli se originó en el Mediterráneo y fue comido allá ya que tiempos antiguos Sin embargo , estaba solamente durante la temprano moderno período cuando se extendió y fue _ comido con más frecuencia en el norte Europa y otros partes de la mundo ."
- VIETold.2172.t :0 "Odiador del brócoli"
- VIETold.2172.desc :0 " Hoy aprendí que alguien que conozco , específicamente [ VIET_broccoli_hater.GetTitledFirstName ], con vehemencia odia el brócoli y se niega a comer ningún comida que contiene esta verdura De por supuesto , no me gusta de cierto alimentos es normal, pero alguno gente sentir como [ VIET_broccoli_ hater.GetSheHe ] toma eso a el extremo".
- VIETold.2172.a:0 " Muy raro ! me gusta el brócoli, en la otro mano ".
- VIETold.2172.b :0 " Nosotros todos tener nuestro preferencias _ quien soy yo para juez ?"
- VIETold.2172.c :0 "Estoy de acuerdo sin duda _ _ El brócoli es terrible".
- VIETold.2173.t :0 "Brócoli o coliflor ?"
- VIETold.2173.desc :0 " Estaba pasando la cocina , cuando escuché _ mi cocinero y su asistente discutiendo sobre ya sea brócoli o coliflor sería mejor _ por la comida ellos fueron preparando a hacer por cena _ Ya que la comida es quiso decir para mi, tal vez eso sería prudente _ a oferta a ellos mi tomar en la importa ."
- VIETold.2173.a:0 " Prefiero el brócoli para de hoy comida ."
- VIETold.2173.b :0 " Estoy en el estado animico por coliflor ".
- VIETold.2173.c :0 "No me importa - ellos lo resolverán fuera ."
- VIETold.2173.d :0 " Por qué no ambos ?"
-# Versión 1.3.5 Comience aquí - Por favor abandonar aquí
-
+ # Version 1.1.4 Start Here - Please leave here
+ # Version 1.3.1 Start Here - Please leave here
+ VIETold.2129.t:0 "Amor perdido"
+ VIETold.2129.desc.male:0 "Anoche apareció en mi sueño, y nos reímos, bailamos y hablamos de nada en particular. Mi corazón latía tan rápido, estaba tan nerviosa pero emocionada que incluso cuando desperté, todavía podía sentirlo. Ha pasado tanto tiempo, tantos años desde la última vez que nos vimos, que incluso ahora sigo pensando en él: mi primer amor."
+ VIETold.2129.desc.female:0 "Anoche ella apareció en mi sueño, y nos reímos, bailamos y hablamos de nada en particular. Mi corazón latía tan rápido, estaba tan nervioso pero emocionado que incluso cuando desperté, todavía podía sentirlo. Ha pasado tanto tiempo, tantos años desde la última vez que nos vimos, que incluso ahora sigo pensando en ella: mi primer amor."
+ VIETold.2129.a:0 "Éramos tan jóvenes e inocentes."
+ VIETold.2130.t:0 "Amor joven"
+ VIETold.2130.desc:0 "Un día, sentado sin hacer nada en la corte, veo a uno de mis jóvenes sirvientes mirando al otro lado del pasillo, a una de mis criadas durante demasiado tiempo. Ella se da cuenta y lo mira, confundida. Él inmediatamente aparta la mirada, avergonzado, evitando torpemente sus ojos. Es una conocida noticia que él la encuentra atractiva, pero no ha reunido el coraje para decírselo. Mientras tanto, aunque ella es una chica inteligente que lo encuentra agradable, es demasiado distraída y ajena a la verdad."
+ VIETold.2130.a:0 "Él encontrará coraje pronto, o ella un cerebro. Funcionará."
+ VIETold.2130.b:0 "Niño y niña tontos. ¡Qué sentimientos tan caprichosos, estúpidos y fugaces!"
+ VIETold.2130.c:0 "¡Ah, volver a ser joven! ¡Cómo lo extraño! ¿Quién sabe qué pasará?"
+ VIETold.2131.t:0 "Buen humor"
+ VIETold.2131.desc:0 "No sé por qué, pero hoy me siento muy feliz e inspirado."
+ VIETold.2131.a:0 "¡Es una buena sensación!"
+ VIETold.2132.t:0 "Cangrejo en el barro"
+ VIETold.2132.desc:0 "El otro día vi un cangrejo en el barro."
+ VIETold.2132.a:0 "¡Criaturas horribles! Las evito siempre que puedo."
+ VIETold.2133.t:0 "Guardia profesional"
+ VIETold.2133.desc:0 "Un día estaba en la ciudad cuando escuché a un guardia gritar: "¡DETÉNTE, HAS VIOLADO LA LEY!"\n\nCon velocidad sobrehumana, atrapa a un ladrón y arrastra al criminal a la cárcel."
+ VIETold.2133.a:0 "¡Extraordinario!"
+ VIETold.2133.b:0 "Impresionante. Recompensa al guardia por esto."
+ VIETold.2134.t:0 "¡Inapropiado!"
+ VIETold.2134.desc:0 "No aprobé lo que dijo [scope_VIET_inappropriate_courtier.GetTitledFirstName]. Era vulgar e inapropiado para la situación."
+ VIETold.2134.a:0 "Dejé clara mi postura. ¡Qué decepción!"
+ VIETold.2134.b:0 "Insinué que podría haber sido inadecuado."
+ VIETold.2134.c:0 "No he dicho nada al respecto por ahora."
+ VIETold.2135.t:0 "Desamor"
+ VIETold.2135.desc:0 "Estoy reunido con algunos miembros importantes de una ciudad cercana, incluidos funcionarios de alto rango, comerciantes, eruditos y más. Veo que entre ellos hay un hombre joven, guapo y de buen corazón, pero claramente triste y perturbado. "Déjalo en paz", me susurra uno de sus compañeros. "¡Está melancólico por una mujer!"
+ VIETold.2135.a:0 "¡Qué tontería! Voy a enderezar la cabeza del muchacho."
+ VIETold.2135.b:0 "Déjame razonar con él. El amor no es todo lo que hay en la vida."
+ VIETold.2135.c:0 "¡Qué desgracia! El amor es cruel. Me entiendo bien con él."
+ VIETold.2135.d:0 "¿Mujeres? ¡Bah! Tiene que aprender que no son más que problemas."
+ VIETold.2135.e:0 "Tal vez pueda ofrecerle un consejo desde la perspectiva de una dama."
+ VIETold.2135.tooltip:0 "Charlaré con este joven y tal vez lo ayude a encontrar una manera de superar sus penas."
+ VIETold.2136.t:0 "Desamor"
+ VIETold.2136.desc:0 "Mientras hablo con el joven, trata de hacerse el tímido pero no puede negar que tiene el corazón roto. No puedo determinar si porque la chica lo rechazó, está con otro hombre, murió o que sucedió alguna otra calamidad, pero es definitivo que él nunca estará con ella. Claramente está enamorado, y la chica ciertamente parece una mujer realmente impresionante y digna de amor. ¿Qué debo decirle?"
+ VIETold.2136.a:0 "Hay muchas mujeres por ahí. ¡Seguro que conoces a otra!"
+ VIETold.2136.b:0 "Encuentra una moza de busto generoso para satisfacer tus deseos carnales por ahora."
+ VIETold.2136.c:0 "¡Deja que tu amor sin límites te inspire a hacer grandes obras!"
+ VIETold.2136.d:0 "¡Eres un idiota malcriado! ¡Afuera hay problemas peores!"
+ VIETold.2137.t:0 "La Emperatriz"
+ VIETold.2137.desc:0 "China, el imperio más augusto, siempre ha sido una fuente de rumores de dudosa fiabilidad. Últimamente, comerciantes ambulantes y aventureros transmiten historias sobre cómo la actual Emperatriz de China es tan poderosa y temible, como hermosa y encantadora. Ella tiene un fuerte control sobre el Emperador y es la verdadera autoridad detrás de él, incluso si solo gobierna desde las sombras."
+ VIETold.2137.a:0 "¡Un cuento fantástico! ¡Incluso si es una broma!"
+ VIETold.2137.b:0 "Cosas más extrañas han sucedido en China."
+ VIETold.2137.c:0 "Es bueno que las mujeres tengan más poder."
+ VIETold.2137.d:0 "Cuéntame más sobre esta gran y poderosa mujer."
+ VIETold.2138.t:0 "Polo chino"
+ VIETold.2138.desc:0 "El polo ha sido popular dentro de la cultura [ROOT.Char.GetCulture.GetName] durante muchas generaciones. No sorprende escuchar que la gente de China también lo disfrute. Aunque las mujeres suelen jugar al polo en muchas partes del mundo, ¡algunas afirman que las mujeres chinas son las mejores jugadoras de polo del mundo! Se dice que las concubinas y princesas imperiales golpean regularmente a los hombres de la corte imperial en este deporte."
+ VIETold.2138.a:0 "Me pregunto qué trucos y técnicas utilizan."
+ VIETold.2138.b:0 "¡Ja! ¡Como si una mujer pudiera hacer eso!"
+ VIETold.2138.c:0 "¡Seguro que nuestras mujeres son igual de buenas!"
+ VIETold.2138.d:0 "No soy fanático del polo."
+ VIETold.2138.e:0 "¡Esas mujeres deberían estar avergonzadas, tan poco femeninas!"
+ VIETold.2138.info:0 "#emphasis Contexto histórico:#! Contrariamente a las representaciones comunes de la historia de polo, el estatus de la mujer en China, aunque nunca sea ideal, ha variado mucho a lo largo de los siglos. En la China Tang, las mujeres jugaban al polo con entusiasmo junto a los hombres (un deporte ecuestre riguroso, incluso peligroso, originario de Asia Central o Irán). Una variedad de polo popular entre las mujeres Tang involucraba burros en lugar de caballos; una mujer noble, Cui Shi, estaba tan obsesionada con el deporte que los arqueólogos encontraron restos de burros en su tumba."
+ VIETold.2139.t:0 "Tempestad"
+ VIETold.2139.desc:0 "Las aguas del océano rugen, rugen y rugen a mi alrededor en mi sueño, una serie enloquecedora de las fuerzas brutas de la destrucción de la naturaleza, y estoy desarmado, impotente, ya que estoy a merced de la naturaleza. ¿Qué es la humanidad? ¿Una mota en el cosmos en comparación con todo esto?"
+ VIETold.2139.a:0 "¡Hasta esto venceré!"
+ VIETold.2139.b:0 "¡Somos insignificantes para el cosmos!"
+ VIETold.2140.t:0 "Una dieta sin carne"
+ VIETold.2140.desc:0 "He oído hablar de personas en los reinos orientales que viven con una dieta vegetariana. Es decir, se niegan a consumir carne, a menudo por razones morales o religiosas. Claramente, hay muchas costumbres diferentes en todo el mundo, pero ¿subsistir sin nada de carne durante toda tu vida? ¿Hay personas que llegarían a extremos tan radicales por sus creencias? ¿Su comida incluso sabe bien?"
+ VIETold.2140.a:0 "¡Tal moderación es admirable!"
+ VIETold.2140.b:0 "¡Deberíamos comer carne! Algunos son presas, otros son depredadores."
+ VIETold.2140.c:0 "Solo los campesinos no pueden comprar carne."
+ VIETold.2140.d:0 "Los seguidores del [ROOT.Char.GetFaith.GetAdjective] también evitan algunas carnes."
+ VIETold.2140.e:0 "Las costumbres son diferentes en todo el mundo."
+ VIETold.2141.t:0 "Islas Benditas"
+ VIETold.2141.desc:0 "Un viajero me está obsequiando con historias, y una de ellas despierta mi interés. Escuchó de alguien que escuchó de otra persona, que escuchó de otra persona que conoció a un viajero, que una vez viajó al sur por los mares y llegó a un pequeña pero hermosa isla. Un paraíso donde siempre hay fruta en los árboles, y los habitantes viven vidas pacíficas, libres de enfermedades y violencia."
+ VIETold.2141.a:0 "Una historia poco probable, pero interesante de todos modos."
+ VIETold.2141.b:0 "Quizás algún día visite estas islas benditas."
+ VIETold.2141.c:0 "Me pregunto cómo está estructurada su sociedad."
+ VIETold.2142.t:0 "Aliento mentolado"
+ VIETold.2142.desc:0 "Hay quienes, después de comer, prefieren consumir un poco de hojas de menta antes de lavarse los dientes por la noche. Acabo de cenar y me estoy preparando para ir a la cama, pero todavía tengo algo de tiempo para toma un poco de menta primero. ¿Cuál es mi posición en este importante asunto?"
+ VIETold.2142.a:0 "Me gusta tomar un poco de menta después de las comidas. Es refrescante."
+ VIETold.2142.b:0 "¿Por qué la necesidad? La limpieza dental es suficiente."
+ VIETold.2142.c:0 "¡Bah! ¿Quién se molesta? Una pérdida de tiempo para los vanidosos."
+ VIETold.2142.d:0 "En realidad, prefiero usar otras hierbas refrescantes."
+ VIETold.2143.t:0 "Sueños felices"
+ VIETold.2143.desc:0 "Me quedé dormido y tuve sueños agradables, sueños que eran felices y me levantaban el ánimo, me hacían sentir mejor acerca de la vida."
+ VIETold.2143.a:0 "Pero luego me desperté a la mañana siguiente."
+ VIETold.2144.t:0 "Rumores maliciosos"
+ VIETold.2144.desc:0 "Una mujer tan poderosa como yo tiene muchos enemigos. Por lo que debo estar constantemente rodeada de guardaespaldas robustos y fuertes que me protegerán. Ayuda el hecho de que muchos de estos jóvenes son bien formados y estéticamente agradables. Sin embargo, ¡Algunas personas están difundiendo rumores maliciosos, diciendo que estos jóvenes fornidos no son más que mis amantes!"
+ VIETold.2144.a:0 "Absurdo. No soy ese tipo de mujer."
+ VIETold.2144.b:0 "Admirar el atractivo visual es una cosa, las acciones son otra."
+ VIETold.2144.c:0 "¡No puedo culparlos! Estos hombres son bastante atractivos."
+ VIETold.2144.d:0 "Los demás están celosos de mi poder."
+ VIETold.2145.t:0 "Gustos en los hombres"
+ VIETold.2145.desc:0 "Una joven mujer de la nobleza ha venido a verme hoy en busca de consejo, sobre qué tipo de hombre es un buen esposo. Como ella es una dama muy respetada, y yo tengo mucho prestigio, ella quiere mi opinión sobre el asunto. Después de discutir la mejor personalidad y antecedentes, me preguntó qué tipo de hombre me parecía estéticamente más agradable."
+ VIETold.2145.a:0 "Prefiero los hombres más delgados y esbeltos."
+ VIETold.2145.b:0 "Aquellos de complexión media, ni extremos."
+ VIETold.2145.c:0 "Solo los tipos voluminosos, fornidos y musculosos."
+ VIETold.2146.t:0 "Sueño de vuelos"
+ VIETold.2146.desc:0 "Hay estudiosos que afirman que algún día, podremos fabricar artilugios que nos permitan volar como pájaros. Otros pensadores dicen que esto es imposible. Últimamente he estado reflexionando sobre esto y si tal cosa es realmente posible."
+ VIETold.2146.a:0 "Si podemos soñarlo, entonces es posible."
+ VIETold.2146.b:0 "Seamos realistas: no somos pájaros."
+ VIETold.2146.c:0 "Hacer eso sería una afrenda al cielo."
+ VIETold.2146.d:0 "Teóricamente es plausible, físicamente si sólo..."
+ VIETold.2147.t:0 "Soñoliento"
+ VIETold.2147.desc:0 "Aunque tuve una noche completa de descanso, la calidad del sueño no debe haber sido buena, porque hoy me siento somnoliento. Sin embargo, tengo una reunión programada con mi consejo en aproximadamente en media hora, una que seguramente no me puedo perder."
+ VIETold.2147.a:0 "¡Tengo que estar despierto!"
+ VIETold.2147.b:0 "Una siesta rápida, solo unos minutos, me hará bien."
+ VIETold.2148.t:0 "Dolor"
+ VIETold.2148.desc:0 "De repente me duelen los músculos de los hombros. Esta mañana estaban bien y ahora parecen estar mal. ¿Qué está pasando?"
+ VIETold.2148.a:0 "Esto será un problema. ¡Ay!"
+ VIETold.2149.t:0 "Calambre en el pie"
+ VIETold.2149.desc:0 "Hoy me encontré con algunos invitados importantes de una tierra lejana, pero en medio de nuestra conversación, ¡me dio un calambre terrible en el pie! Todos miraron a su alrededor mientras sostenía mi pie, gimiendo de dolor. Mi traductor torpemente explicó a los extranjeros lo que estaba pasando, y después parecieron entender y trataron de consolarme con la misma torpeza."
+ VIETold.2149.a:0 "¿Por qué yo?"
+ VIETold.2150.t:0 "Recomendación de libros"
+ VIETold.2150.desc:0 "Alguien me pide recomendaciones para una buena lectura. Por coincidencia, ayer mismo terminé de leer un libro maravilloso. Lo disfruté mucho y se lo recomendaría a mucha gente. Específicamente, la historia es de..."
+ VIETold.2150.a:0 "Un romance sentimental y dramático sobre el amor verdadero."
+ VIETold.2150.b:0 "Un cuento crudo y oscuro con derramamiento de sangre y desviaciones."
+ VIETold.2150.c:0 "Una fantástica aventura en tierras extranjeras."
+ VIETold.2150.d:0 "Una colección de divertidas anécdotas de la vida cotidiana."
+ # Version 1.3.2 Start Here - Please leave here
+ VIETold.2151.t:0 "Liberar"
+ VIETold.2151.desc:0 "Al caer la noche, me encontré solo en mis aposentos. De repente, y no sé cómo empezó, empecé a llorar. Sollocé durante lo que debieron ser horas, dejando escapar todo mi dolor y tristeza. Cuando paró, me sentí un poco mejor."
+ VIETold.2151.a:0 "Pero las cosas no han terminado. Todavía no, al menos."
+ VIETold.2152.t:0 "Té de marrubio"
+ VIETold.2152.desc:0 "Estoy bebiendo un té de hierbas, excelentemente preparado con la hierba marrubio, que se dice que ayuda con la digestión y la respiración."
+ VIETold.2152.a:0 "¡Ah! Qué té tan relajante."
+ VIETold.2152.info:0 "#emphasis Contexto histórico:#! El marrubio (marrubium vulgare) es una hierba originaria del Mediterráneo y Asia occidental que se encuentra en gran parte de Europa, el norte de África y partes de Asia. Los antiguos escritores griegos y romanos citan su uso como hierba medicinal, particularmente para problemas respiratorios como la tos. Además de usarse para el té, también se ha usado para hacer cerveza en partes de Inglaterra y como una especie de repelente de insectos en partes de Italia."
+ VIETold.2153.t:0 "Té de hierro"
+ VIETold.2153.desc:0 "Durante siglos, los pueblos de los Balcanes han bebido el llamado té de la montaña, elaborado con la planta de ferretería de sabor dulce. Hoy estoy bebiendo un poco para relajarme."
+ VIETold.2153.a:0 "¡Qué dulce!"
+ VIETold.2154.t:0 "Té negro"
+ VIETold.2154.desc:0 "El té negro, también conocido como té rojo, se considera un bien preciado en esta parte del mundo. Me han regalado varios bloques de té negro seco. Se dice que proceden de China por lo que su calidad debe ser muy alta, y puedo ofrecerlo a los invitados en varios banquetes y funciones."
+ VIETold.2154.a:0 "¡Muy bien!"
+ VIETold.2155.t:0 "Demasiada sal"
+ VIETold.2155.desc:0 "Agregué demasiada sal a mi comida y ahora tiene un sabor desagradable. Sin mencionar que también es un desperdicio de buena sal."
+ VIETold.2155.a:0 "¡Ugh!"
+ VIETold.2155.b:0 "Trataré de comerlo."
+ VIETold.2156.t:0 "¿Qué tipo de huevos?"
+ VIETold.2156.desc:0 "Mi cocinera me pregunta si prefiero huevos duros o pasados ​​por agua."
+ VIETold.2156.a:0 "Por agua"
+ VIETold.2156.b:0 "Duros"
+ VIETold.2156.c:0 "Lo que prefiera mi cocinero"
+ VIETold.2156.d:0 "Quiero abstenerme de comer huevos por un tiempo."
+ VIETold.2157.t:0 "Marinero retirado"
+ VIETold.2157.desc:0 "¡Estaba asistiendo a un baile cuando conocí a un tipo muy interesante! Se presenta como "un viejo vagabundo capitán de barco, ahora propietario de un barco y gordo comerciante". Alegre y cordial, me ofrece algunos consejos: "Baja al mar, párate un rato. Ver salir y ponerse el sol. Piensa en las tierras lejanas al otro lado del mar.""
+ VIETold.2157.a:0 "El hombre es amistoso, y los dos terminamos hablando un buen rato."
+ VIETold.2158.t:0 "¡Atchoo!"
+ VIETold.2158.desc:0 "Mientras revisaba algunos documentos, ¡el polvo debe haber llegado a mi nariz y estornudé! Según la superstición [ROOT.Char.GetCulture.GetName], si uno estornuda en medio del trabajo, es de mal augurio y hay que interrumpir el ritmo de trabajo -como parando a beber un poco de agua- para evitar que suceda alguna desgracia."
+ VIETold.2158.a:0 "Solo es superstición. Sigamos trabajando."
+ VIETold.2158.b:0 "Es una tontería, pero para estar seguro, beberé un poco de agua."
+ VIETold.2158.c:0 "¡Oh, no! ¡Tráeme un poco de agua, rápido!"
+ VIETold.2159.t:0 "¿Achoo?"
+ VIETold.2159.desc:0 "La creencia [ROOT.Char.GetCulture.GetName] sostiene que si uno estornuda, significa que alguien está hablando de ti a tus espaldas. Estornuda una cierta cantidad de veces y sabrás lo que dijeron. Un estornudo significa cosas buenas, dos significa cosas malas y tres significa que te aman. Hoy, mientras hablaba con varias personas, estornudé muy fuerte..."
+ VIETold.2159.a:0 "Una vez."
+ VIETold.2159.b:0 "Dos veces."
+ VIETold.2159.c:0 "Tres veces."
+ VIETold.2160.t:0 "Baklava... ¡Cuánto baklava!"
+ VIETold.2160.desc:0 "Mis chefs prepararon una cantidad desmesurada de baklava para un pequeño banquete que estaba organizando, ¡y terminé comiéndome la mayor parte del baklava! Sin embargo, pocos podrían culparme: era un baklava muy bueno."
+ VIETold.2160.a:0 "Lo siento, pero tampoco tanto."
+ VIETold.2161.t:0 "Amor entre familias"
+ VIETold.2161.desc:0 "Algunos de mis cortesanos están enfrascados en un intenso debate sobre qué tipo de matrimonio incestuoso es el mejor. Aunque todos son, por supuesto, santos y grandes héroes. La creencia [ROOT.Char.GetFaith.GetAdjective] concreta qué puede hacer, aunque ciertamente hay puntos buenos y puntos malos para cada tipo. Decido involucrarme en la conversación: ¿cuál creo que es el mejor tipo de matrimonio incestuoso?"
+ VIETold.2161.a:0 "Hermanos, por supuesto"
+ VIETold.2161.a.tooltip:0 "Al ser más cercanos en edad, es más probable que se lleven bien y entiendan las cosas desde la perspectiva del otro."
+ VIETold.2161.b:0 "¡No cualquier hermano, sino gemelos!"
+ VIETold.2161.b.tooltip:0 "Los gemelos son más que hermano y hermana. Compartieron un útero, vinieron juntos a este mundo y, por lo tanto, pertenecen juntos."
+ VIETold.2161.c:0 "Padre e hijo."
+ VIETold.2161.c.tooltip:0 "Un niño debe comprender la fuente de su origen, y el creador de la vida debe acercarse a lo que él creó."
+ VIETold.2161.d:0 "¡Cualquier incesto es bueno!"
+ VIETold.2161.d.tooltip:0 "¿Debemos pelear? Estas peleas de tontos causan divisiones innecesarias. ¡Somos civilizados, a diferencia de los bárbaros brutales e ignorantes que piensan que este tipo de matrimonios son malos!"
+ # Version 1.3.3 Start Here - Please leave here
+ VIETold.2162.t:0 "Tónico de hierbas"
+ VIETold.2162.desc:0 "Hace un par de horas pasé por un herbolario para comprar algunas hierbas. Las hierbas que compré hoy deberían ayudarme a mantenerme saludable. Según las instrucciones del herbolario, debo beberlas diariamente como un tónico para mantener mi salud hasta que me quede sin ella."
+ VIETold.2162.a:0 "¡Espero que esto me ayude!"
+ VIETold.2163.t:0 "Médico charlatán"
+ VIETold.2163.desc:0 "Un curandero que había estado operando de forma notoria en la zona durante algún tiempo, finalmente ha sido arrestado por vender brebajes médicos fraudulentos, algunos de los cuales se sabe que son mortales. Los médicos instruidos tienen la formación médica adecuada en temas como los cuatro humores y los usos apropiados de las hierbas, pero este es un estafador sin educación que quiere engañar a los idiotas y coger su dinero."
+ VIETold.2163.a:0 "¡Mándenlo a prisión inmediatamente!"
+ VIETold.2163.b:0 "¡Obligadle a beber uno de sus venenos!"
+ VIETold.2163.c:0 "Déjalo ir. Ha aprendido la lección."
+ VIETold.2164.t:0 "Un debate médico"
+ VIETold.2164.desc:0 "Estoy escuchando un debate entre dos médicos locales sobre la mejor manera de tratar una cierta dolencia médica. Aunque no entiendo todo lo que discuten, sus exposiciones sobre diversas teorías e ideas médicas, como los cuatro humores, cómo funcionan los diversos órganos del cuerpo y qué hierbas son más efectivas, son extrañamente fascinantes."
+ VIETold.2164.a:0 "¡Qué sabios deben ser!"
+ VIETold.2164.b:0 "" Ambos están equivocados. Galen dijo que si una persona está tosiendo, sangre y bilis..."
+ VIETold.2165.t:0 "Demostración de cirugía"
+ VIETold.2165.desc:0 "Un hombre ilustrado viaja por la ciudad para intercambiar conocimientos con los médicos de la zona. Conoce los tratamientos médicos, en particular la cirugía, y nos ha invitado a varios de nosotros a ver una demostración de sus habilidades quirúrgicas cuando opere a un noble menor. Sin embargo, será un asunto bastante aprensivo, como suelen ser la mayoría de las cirugías. ¿Debería asistir?"
+ VIETold.2165.a:0 "He lidiado con cosas peores. ¡Esto suena educativo!"
+ VIETold.2165.b:0 "Un [ROOT.Char.GetTitleAsNameNoTooltip] como yo tiene preocupaciones más apremiantes."
+ VIETold.2165.c:0 "Tal vez incluso pueda ayudar en su procedimiento con mis habilidades."
+ VIETold.2166.t:0 "¿Cuántas cucharadas?"
+ VIETold.2166.desc:0 "Escuché a uno de mis sirvientes murmurar: "Dios mío, ¿fueron dos cuchardas o tres?"\n\nCuando le pregunté de qué estaba hablando, me dijo que olvidó la cantidad de medicamento que necesitaba. Lo necesitaba tomar para sus recientes dolores de estómago."
+ VIETold.2166.a:0 "Eh... ni idea. ¡Buena suerte!"
+ VIETold.2166.b:0 "Eres claramente un imbécil si lo olvidaste."
+ VIETold.2166.c:0 "En realidad, deberían ser cuatro cucharadas."
+ VIETold.2167.t:0 "Un contratiempo a base de hierbas"
+ VIETold.2167.desc:0 "Hoy, [scope_VIET_courtier_medicine_wrong.GetTitledFirstName] accidentalmente tomó el medicamento equivocado. Parece que [scope_VIET_courtier_medicine_wrong.GetSheHe] confundió dos brebajes diferentes, se suponía que [scope_VIET_courtier_medicine_wrong.GetSheHe] debía tomarlos en diferentes momentos y con diferentes dosis. ¡Uno solo puede esperar que esto no tenga efectos secundarios negativos graves!"
+ VIETold.2167.a:0 "¡Dios mío! Eso suena desagradable."
+ VIETold.2168.t:0 "¡Caliente, caliente, caliente!"
+ VIETold.2168.desc:0 "Estaba bebiendo un té de hierbas que estaba destinado a ser bueno para la salud. Sin embargo, bebí demasiado rápido y me quemé la lengua delante de todos, lo que me llevó a derramar el té sobre mi ropa, y eso a su vez provocó algunas quemaduras menores en mi piel."
+ VIETold.2168.a:0 "Es uno de esos días, ¿no es así...?"
+ VIETold.2169.t:0 "¿Cuarentena o no?"
+ VIETold.2169.desc:0 "Oigo a un erudito y a un comerciante debatir sobre las ventajas de las cuarentenas durante las plagas. El erudito dice que los sabios y los médicos siempre han aconsejado que las personas con enfermedades contagiosas se mantengan alejadas de las sanas. El comerciante dice que aislar a las comunidades destruirá las oportunidades comerciales y hará que los asentamientos sean impotentes y débiles. ¿Qué pienso?"
+ VIETold.2169.a:0 "Vivir con miedo es una idea tonta, solo confía en [ROOT.Char.GetFaith.HealthGodName]!"
+ VIETold.2169.b:0 "Debemos prestar atención a la sabiduría de los eruditos cuando se trata de estas cosas."
+ VIETold.2169.c:0 "Con toda honestidad, este debate no me importa."
+ VIETold.2169.info:0 "#emphasis Contexto histórico:#! Contrariamente a las representaciones de la historia popular de las personas medievales como eruditos, médicos y líderes educados y estúpidos de la época, utilizaron una variedad de métodos para combatir las pandemias, incluidas las cuarentenas. "Cuarentena" proviene de la palabra veneciana quarantena, que significa "cuarenta días", ya que la República de Venecia impuso un aislamiento de cuarenta días de cualquier barco o persona que llegara durante la Peste Negra."
+ VIETold.2170.t:0 "Dolor de garganta"
+ VIETold.2170.desc:0 "Tenía antes dolor de garganta y tomé este brebaje de hierbas para mejorarlo, como me sugirieron algunos. Aunque debo admitir que mi garganta se siente mejor, ¡el medicamento sabía asqueroso!"
+ VIETold.2170.a:0 "¡Ugh! No puedo hacer que ese sabor desaparezca."
+ # Version 1.3.4 Start Here - Please leave here
+ VIETold.2171.t:0 "¿Qué es este brócoli?"
+ VIETold.2171.desc:0 "Un viajero trajo varios alimentos interesantes para presentar en mi corte. Uno de ellos era una verdura llamada brócoli, que no es muy popular ni conocida fuera de Italia y ciertas partes del Mediterráneo. Su cabeza es similar a la coliflor, pero su tallo se parece más a un espárrago."
+ VIETold.2171.a:0 "No, gracias. Esta planta parece extraña."
+ VIETold.2171.b:0 "Fascinante. Probaré un poco."
+ VIETold.2171.c:0 "Quiero guardar un poco de este brócoli para que lo usen mis cocineros."
+ VIETold.2171.info:0 "#emphasis Contexto histórico:#! El brócoli se originó en el Mediterráneo y se comió allí desde la antigüedad. Sin embargo, fue solo durante el período moderno temprano cuando se extendió y se comió con más frecuencia en el norte de Europa y otras partes del mundo."
+ VIETold.2172.t:0 "Odio el brócoli"
+ VIETold.2172.desc:0 "Hoy me enteré de que alguien que conozco, específicamente [VIET_broccoli_hater.GetTitledFirstName] - Odia con vehemencia el brócoli y se niega a comer cualquier comida que contenga este vegetal. Por supuesto, el disgusto por ciertos alimentos es normal, pero algunas personas tienen ganas de llevarlo al extremo."
+ VIETold.2172.a:0 "¡Muy raro! Por otro lado, me gusta el brócoli."
+ VIETold.2172.b:0 "Todos tenemos nuestras preferencias. ¿Quién soy yo para juzgar?"
+ VIETold.2172.c:0 "Estoy de acuerdo sin ninguna duda. El brócoli es terrible."
+ VIETold.2173.t:0 "¿Brócoli o coliflor?"
+ VIETold.2173.desc:0 "Estaba pasando por la cocina, cuando escuché a mi cocinero y su asistente discutiendo sobre si el brócoli o la coliflor, serían mejor para la cena que estaban preparando. Ya que la comida es para mí , tal vez sería prudente ofrecerles mi opinión sobre el asunto."
+ VIETold.2173.a:0 "Prefiero brócoli para la comida de hoy."
+ VIETold.2173.b:0 "Tengo ganas de coliflor."
+ VIETold.2173.c:0 "No me importa, ellos lo resolverán."
+ VIETold.2173.d:0 "¿Por qué no ambos?"
+ # Version 1.3.5 Start Here - Please leave here
  VIETold.2174.t:0 "xxxxx"
  VIETold.2174.desc:0 "xxxxx"
  VIETold.2174.a:0 "xxxxx"
