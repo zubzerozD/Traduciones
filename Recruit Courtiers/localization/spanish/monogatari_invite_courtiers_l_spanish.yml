@@ -1,0 +1,17 @@
+﻿l_spanish:
+ monogatari_invite_courtiers_decision:0 "Recluta cortesanos masculinos"
+ monogatari_invite_courtiers_decision_desc:0 "Preguntaré por ahí para ver si hay hombres que puedan estar interesados ​​en servirme como cortesano. Si estoy contento con la persona que me presentan, los invitaré a unirse a mi corte".
+ monogatari_invite_courtiers_decision_tooltip:0 "Me presentarán a un [courtier|E] y veré si es digno de unirse a mi corte."
+ monogatari_invite_courtiers_decision_confirm:0 "¡Vamos a conocerlos!"
+ monogatari_invite_courtiers_decision_female:0 "Recluta cortesanas Femeninas"
+ monogatari_invite_courtiers_decision_female_desc:0 "Veré si hay alguna mujer joven que pueda estar interesada en servirme como cortesana. Si estoy contento con la persona que me presentan, entonces la invitaré a unirse a mi corte".
+ monogatari_invite_courtiers_decision_female_tooltip:0 "Me presentarán a un [courtier|E] y veré si es digno de unirse a mi corte".
+ monogatari_invite_courtiers_decision_female_confirm:0 "¡Vamos a conocerlas!"
+ monogatari_invite_courtiers.0001.title:0 "¿Un nuevo cortesano?"
+ monogatari_invite_courtiers.0001.desc:0 "Me han presentado a un hombre local que se hace llamar [target.GetFullName]. Necesito gente con talento en mi corte. ¿Es él lo que busco?"
+ monogatari_invite_courtiers.0001.a:0 "¡[target.GetFirstName] Eres bienvenido aquí!"
+ monogatari_invite_courtiers.0001.b:0 "¡[target.GetFirstName] Uhm... No es lo que busco!"
+ monogatari_invite_courtiers.0002.title:0 "¿Un nuevo debutante?"
+ monogatari_invite_courtiers.0002.desc:0 "Me presentaron a una dama local llamada [target.GetFullName]. Sus habilidades pueden resultarme útiles en mi corte. ¿Debería permitirle unirse a mi corte?"
+ monogatari_invite_courtiers.0002.a:0 "¡[target.GetFirstName] Eres bienvenida aquí!"
+ monogatari_invite_courtiers.0002.b:0 "¡[target.GetFirstName] Uhm... No es lo que busco!"
